@@ -38,23 +38,18 @@ The following icons are used throughout this list to indicate the types of mater
 - [CS 61C](https://cs61c.org/fa25/) **Great Ideas in Computer Architecture (Machine Structures)** *UC Berkeley* 🎥 📝 💻 📚
 	- The subjects covered in this course include: C and assembly language programming, translation of high-level programs into machine language, computer organization, caches, performance measurement, parallelism, CPU design, warehouse-scale computing, and related topics.
 	- [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter)
-	- [Lecture Notes](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Calendar)
-	- [Resources](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Resources)
 	- [Old Exams](https://hkn.eecs.berkeley.edu/exams/course/CS/61C)
-- [CS 107](https://courseware.stanford.edu/pg/courses/lectures/371747) **Computer Organization & Systems** *Stanford University* 🎥 💻
+- [CS 107](https://web.stanford.edu/class/cs107/) **Computer Organization & Systems** *Stanford University* 🎥 💻
 	- CS107 is the third course in Stanford's introductory programming sequence. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, portability, and robustness.
 	- [Lecture Videos](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10)
-	- [Assignments](http://web.stanford.edu/class/cs107/assignments.html)
-- [CS 140](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php) **Operating Systems** *Stanford University* 💻 📝
+- [CS 140](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php) **Operating Systems** *Stanford University* 💻 📝
 	- This class introduces the basic facilities provided in modern operating systems. The course divides into three major sections. The first part of the course discusses concurrency. The second part of the course addresses the problem of memory management. The third major part of the course concerns file systems.
-	- [Lecture Notes](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php)
-	- [Assignments](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/projects.php)
-- [6.004](https://6004.mit.edu/) **Computation Structures** *MIT* 💻 📝 🎥
+- [6.191](https://6191.mit.edu/fall25) **Computation Structures** *MIT* 💻 📝 🎥
 	- Introduces architecture of digital systems, emphasizing structural principles common to a wide range of technologies. Multilevel implementation strategies; definition of new primitives (e.g., gates, instructions, procedures, processes) and their mechanization using lower-level elements. Analysis of potential concurrency; precedence constraints and performance measures; pipelined and multidimensional systems. Instruction set design issues; architectural support for contemporary software structures. 4 Engineering Design Points. 6.004 offers an introduction to the engineering of digital systems. Starting with MOS transistors, the course develops of series of building blocks logic gates, combinational and sequential circuits, finite-state machines, computers and finally complete systems. Both hardware and software mechanisms are explored through a series of design examples.
 	- [Youtube Playlist](https://www.youtube.com/watch?v=9DWlqtsNGV0&index=1&list=PLmP5iIyVnKPQ-cO_EENdUgEdlRf0u5LYa)
-	- [Lecture Notes](http://computationstructures.org/notes/tradeoffs/notes.html)
+	- [Lecture Notes (Old)](http://computationstructures.org/notes/tradeoffs/notes.html)
 	- [Labs-Assignments](http://computationstructures.org/exercises/cmos/lab.html)
-- [CS 162](http://cs162.eecs.berkeley.edu/) **Operating Systems and Systems Programming** *UC Berkeley* 🎥 📝 💻 📚
+- [CS 162](https://cs162.org/) **Operating Systems and Systems Programming** *UC Berkeley* 🎥 📝 💻 📚
 	- The purpose of this course is to teach the design of operating systems and operating systems concepts that appear in other advanced systems. Topics we will cover include concepts of operating systems, systems programming, networked and distributed systems, and storage systems, including multiple-program systems (processes, interprocess communication, and synchronization), memory allocation (segmentation, paging), resource allocation and scheduling, file systems, basic networking (sockets, layering, APIs, reliability), transactions, security, and privacy.
 		- Operating Systems course by the Chair of EECS, UC Berkeley [David Culler](http://www.cs.berkeley.edu/~culler/)
 		- [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c) Spring 2015 lectures
