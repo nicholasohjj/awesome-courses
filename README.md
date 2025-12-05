@@ -1,36 +1,37 @@
 # Awesome CS Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
-Introduction
-------------
+## Introduction
 
 There are a lot of ~~hidden~~ treasures lying within university pages scattered across the internet. This list is an attempt to bring to light those awesome CS courses which make their high-quality materials, i.e. assignments, lectures, notes, readings and examinations, available online for free.
 
-Table of Contents
------------------
+## Table of Contents
 
-- [Algorithms](#algorithms)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Computer Graphics](#computer-graphics)
-- [CS Theory](#cs-theory)
-- [Introduction to CS](#introduction-to-cs)
-- [Machine Learning](#machine-learning)
-- [Misc](#misc)
-- [Programming Languages / Compilers](#programming-languages--compilers)
-- [Security](#security)
-- [Systems](#systems)
-- [Statistics / Regression](#statistics)
+- [Legend](#legend)
+- [Courses](#courses)
+  - [Algorithms](#algorithms)
+  - [Artificial Intelligence](#artificial-intelligence)
+  - [Computer Graphics](#computer-graphics)
+  - [CS Theory](#cs-theory)
+  - [Introduction to CS](#introduction-to-cs)
+  - [Machine Learning](#machine-learning)
+  - [Misc](#misc)
+  - [Programming Languages / Compilers](#programming-languages--compilers)
+  - [Security](#security)
+  - [Systems](#systems)
+  - [Statistics / Regression](#statistics)
+- [Contributing](#contributing)
+- [License](#license)
 
-### Legend
+## Legend
+
+The following icons are used throughout this list to indicate the types of materials available for each course:
 
 - 🎥 - Lecture Videos
 - 📝 - Lecture Notes
 - 💻 - Assignments / Labs
 - 📚 - Readings
 
-
-Courses
--------
+## Courses
 
 ### Systems
 
@@ -1014,9 +1015,6 @@ and anti-analysis techniques.
 	- This is an introductory course on Networking for graduate students. It follows a top-down approach to teaching Computer Networks, so it starts with the Application layer which most of the students are familiar with and as the course unravels we learn more about transport, network and link layers of the protocol stack.
 	- As far as prerequisites are concerned - basic computer, programming and probability theory background is required.
 	- The course site contains links to the lecture videos, reading material and assignments.
-
-
------
 ### Statistics
 
 - [STAT 340](https://andrewpbray.github.io/reg/index.html) **Applied Regression Methods** *Smith College* 💻 📝
@@ -1029,3 +1027,20 @@ and anti-analysis techniques.
 	- Interpret your model and communicate what it implies.
 - [Syllabus](https://andrewpbray.github.io/reg/syllabus.html)
 - [Lecture Notes](https://andrewpbray.github.io/reg/index.html)
+
+## Contributing
+
+Have a few courses in mind that you think are awesome and would fit in this list? Feel free to send a [pull request](https://github.com/prakhar1989/awesome-courses/pulls). However, do note that we're not keen on adding popular courses (such as MOOCs / MIT OCW) as there are services like [ClassCentral](https://www.class-central.com/) doing a great job of aggregation. This list is ideally for courses which are relatively unknown and make their material (assignments, lectures, exams etc.) available online for free.
+
+### A couple of things to keep in mind:
+
+- When adding new courses to the various categories, please ensure that alphabetization (ex. CSCE 48 should be listed after CS 240) is maintained. This makes it easier for viewers to find what they are looking for.
+- Next to each course title, you'll notice a few icons. These icons serve to let readers know, at a quick glance, what materials they can expect to find at the courses' websites. The meanings of these icons are explained in the [Legend](#legend) section above.
+
+For more details, please see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
