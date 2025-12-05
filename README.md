@@ -911,7 +911,7 @@ and anti-analysis techniques.
 	- Introduction to the practical problems of specifying, designing, building, testing, and delivering reliable software systems
 	- [Lectures](http://www.cs.cornell.edu/courses/CS5150/2014fa/materials.html)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS5150/2014fa/assignments.html)
-- [CS 5220](http://www.cs.cornell.edu/~bindel/class/cs5220-f11/) **Applications of Parallel Computers** *Cornell University* 💻 📝 📚
+- [CS 5220](https://www.cs.cornell.edu/courses/cs5220/2024fa/) **Applications of Parallel Computers** *Cornell University* 💻 📝 📚
 	- How do we solve the large-scale problems of science quickly on modern computers? How do we measure the performance of new or existing simulation codes, and what things can we do to make them run faster? How can we best take advantage of features like multicore processors, vector units, and graphics co-processors? These are the types of questions we will address in CS 5220, Applications of Parallel Computers. Topics include:
 		- Single-processor architecture, caches, and serial performance tuning
 		- Basics of parallel machine organization
@@ -920,28 +920,12 @@ and anti-analysis techniques.
 		- Parallel patterns: data partitioning, synchronization, and load balancing
 		- Examples of parallel numerical algorithms
 		- Applications from science and engineering
-	- [Lectures](http://www.cs.cornell.edu/~bindel/class/cs5220-f11/lectures.html)
-	- [Assignments](http://www.cs.cornell.edu/~bindel/class/cs5220-f11/assignments.html)
-- [CS 5540](https://sites.google.com/site/cs5540sp2013/) **Computational Techniques for Analyzing Clinical Data** *Cornell University* 💻 📝 📚
-	- CS5540 is a masters-level course that covers a wide range of clinical problems and their associated computational challenges. The practice of medicine is filled with digitally accessible information about patients, ranging from EKG readings to MRI images to electronic health records. This poses a huge opportunity for computer tools that make sense out of this data. Computation tools can be used to answer seemingly straightforward questions about a single patient's test results (“Does this patient have a normal heart rhythm?”), or to address vital questions about large populations (“Is there any clinical condition that affects the risks of Alzheimer”). In CS5540 we will look at many of the most important sources of clinical data and discuss the basic computational techniques used for their analysis, ranging in sophistication from current clinical practice to state-of-the-art research projects.
-	- [Syllabus](https://sites.google.com/site/cs5540sp2013/home/course-description)
-	- [Lectures](https://sites.google.com/site/cs5540sp2013/lectures)
-	- [Assignments](https://sites.google.com/site/cs5540sp2013/assignments)
-- [CS 5724](http://courses2.cit.cornell.edu/cs5724/) **Evolutionary Computation** *Cornell University* 💻 📝
-	- This course will cover advanced topics in evolutionary algorithms and their application to open-ended computational design. The field of evolutionary computation tries to address large-scale optimization and planning problems through stochastic population-based methods. It draws inspiration from evolutionary processes in nature and in engineering, and also serves as abstract models for these phenomena. Evolutionary processes are generally weak methods that require little information about the problem domain and hence can be applied across a wide variety of applications. They are especially useful for open-ended problem domains for which little formal knowledge exists and the number of parameters is undefined, such as for the general engineering design process. This course will provide insight to a variety of evolutionary computation paradigms, such as genetic algorithms, genetic programming, and evolutionary strategies, as well as governing dynamics of co-evolution, arms races and mediocre stable states. New methods involving symbiosis models and pattern recognition will also be presented. The material will be intertwined with discussions of representations and results for design problems in a variety of problem domains including software, electronics, and mechanics.
-	- [Syllabus](http://courses2.cit.cornell.edu/cs5724/)
-	- [Lectures](http://courses2.cit.cornell.edu/cs5724/schedule.htm)
-	- [Assignments](http://courses2.cit.cornell.edu/cs5724/)
 - [CS 6452](http://www.cs.cornell.edu/courses/CS6452/2012sp/index.php) **Datacenter Networks and Services** *Cornell University* 📝
 	- CS6452 focuses on datacenter networks and services. The emerging demand for web services and cloud computing have created need for large scale data centers. The hardware and software infrastructure for datacenters critically determines the functionality, performance, cost and failure tolerance of applications running on that datacenter. This course will examine design alternatives for both the hardware (networking) infrastructure, and the software infrastructure for datacenters.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php)
-- [CS 6630](http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm) **Realistic Image Synthesis** *Cornell University* 💻 📝 📚
+- [CS 6630](http://www.cs.cornell.edu/courses/CS6630) **Realistic Image Synthesis** *Cornell University* 💻 📝 📚
 	- CS6630 is an introduction to physics-based rendering at the graduate level. Starting from the fundamentals of light transport we will look at formulations of the Rendering Equation, and a series of Monte Carlo methods, from sequential sampling to multiple importance sampling to Markov Chains, for solving the equation to make pictures. We'll look at light reflection from surfaces and scattering in volumes, illumination from luminaries and environments, and diffusion models for translucent materials. We will build working implementations of many of the algorithms we study, and learn how to make sure they are actually working correctly. It's fun to watch integrals and probability distributions transform into photographs of a slightly too perfect synthetic world.
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm)
-	- [Readings](http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm)
 - [CS 6640](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#) **Computational Photography** *Cornell University* 💻 
 	- A course on the emerging applications of computation in photography. Likely topics include digital photography, unconventional cameras and optics, light field cameras, image processing for photography, techniques for combining multiple images, advanced image editing algorithms, and projector-camera systems.cornell.edu/courses/CS6630/2012sp/about.stm)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#schedule)
@@ -950,18 +934,8 @@ and anti-analysis techniques.
 	- Covers computational aspects of motion, broadly construed. Topics include the computer representation, modeling, analysis, and simulation of motion, and its relationship to various areas, including computational geometry, mesh generation, physical simulation, computer animation, robotics, biology, computer vision, acoustics, and spatio-temporal databases. Students implement several of the algorithms covered in the course and complete a final project.  This offering will also explore the special role of motion processing in physically based sound rendering.
 - [CS 6840](http://www.cs.cornell.edu/courses/CS6840/2014sp/) **Algorithmic Game Theory** *Cornell University* 💻 📝 📚
 	- Algorithmic Game Theory combines algorithmic thinking with game-theoretic, or, more generally, economic concepts. The course will study a range of topics at this interface
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
-	- [Readings](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
-- [CSE 154](http://courses.cs.washington.edu/courses/cse154/14au/) **Web Programming** *University of Washington* 💻 📝
+- [CSE 154](http://courses.cs.washington.edu/courses/cse154/) **Web Programming** *University of Washington* 💻 📝
 	- This course is an introduction to programming for the World Wide Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.
-	- [Lectures](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml#today)
-	- [Assignments](http://courses.cs.washington.edu/courses/cse154/14au/homework.shtml)
-- [ESM 296-4F](http://ucsb-bren.github.io/esm296-4f/) **GIS & Spatial Analysis** *UC Santa Barbara* 💻 📝
-	- Taught by [James Frew](http://www.bren.ucsb.edu/people/Faculty/james_frew.htm), [Ben Best](http://mgel.env.duke.edu/people/ben-best/), and [Lisa Wedding](http://www.centerforoceansolutions.org/team/lisa-wedding)
-	- Focuses on specific computational languages (e.g., Python, R, shell) and tools (e.g., GDAL/OGR, InVEST, MGET, ModelBuilder) applied to the spatial analysis of environmental problems
-	- [GitHub ](http://ucsb-bren.github.io/esm296-4f/) (includes lecture materials and labs)
 - [ICS 314](http://philipmjohnson.github.io/ics314f13/) **Software Engineering** *University of Hawaii*  💻 📝 📚
 	- Taught by [Philip Johnson](http://philipmjohnson.org/)
 	- Introduction to software engineering using the ["Athletic Software Engineering" pedagogy](http://philipmjohnson.org/essays/ase-initial-results.html)
