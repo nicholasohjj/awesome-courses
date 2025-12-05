@@ -514,33 +514,20 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- Taught by one of the leading experts on Machine Learning - **Tom Mitchell**
 	- [Lectures](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 	- [Project Ideas and Datasets](http://www.cs.cmu.edu/~tom/10701_sp11/proj.shtml)
-- [10-708](http://www.cs.cmu.edu/~epxing/Class/10708-14/index.html) **Probabilistic Graphical Models** *Carnegie Mellon University* 🎥 📝 💻 📚
+- [10-708](https://www.cs.cmu.edu/~epxing/Class/10708-20/) **Probabilistic Graphical Models** *Carnegie Mellon University* 🎥 📝 💻 📚
 	- Many of the problems in artificial intelligence, statistics, computer systems, computer vision, natural language processing, and computational biology, among many other fields, can be viewed as the search for a coherent global conclusion from local information. The probabilistic graphical models framework provides a unified view for this wide range of problems, enabling efficient inference, decision-making and learning in problems with a very large number of attributes and huge datasets. This graduate-level course will provide you with a strong foundation for both applying graphical models to complex problems and for addressing core research topics in graphical models.
-	- [Lecture Videos](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
-	- [Assignments](http://www.cs.cmu.edu/~epxing/Class/10708-14/homework.html)
-	- [Lecture notes](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
-	- [Readings](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
 - [11-785](http://deeplearning.cs.cmu.edu/) **Deep Learning** *Carnegie Mellon University* 💻 📚
 	- The course presents the subject through a series of seminars and labs, which will explore it from its early beginnings, and work themselves to some of the state of the art. The seminars will cover the basics of deep learning and the underlying theory, as well as the breadth of application areas to which it has been applied, as well as the latest issues on learning from very large amounts of data. We will concentrate largely, although not entirely, on the connectionist architectures that are most commonly associated with it. *Lectures* and *Reading Notes* are available on the page.
 - [CS246](http://web.stanford.edu/class/cs246/) **Mining Massive Data Sets** *Stanford University* 🎥 📝 💻 📚
 	- The course will discuss data mining and machine learning algorithms for analyzing very large amounts of data. The emphasis will be on Map Reduce as a tool for creating parallel algorithms that can process very large amounts of data.
-	- [Lecture Videos](http://www.mmds.org/#mooc)
-	- [Assignments](http://web.stanford.edu/class/cs246/handouts.html)
-	- [Lecture notes](http://web.stanford.edu/class/cs246/handouts.html)
-	- [Readings](http://www.mmds.org/#book)
 - [CS276](http://web.stanford.edu/class/cs276/index.html) **Information Retrieval and Web Search** *Stanford University* 📝 📚
 	- Basic and advanced techniques for text-based information systems: efficient text indexing; Boolean and vector space retrieval models; evaluation and interface issues; Web search including crawling, link-based algorithms, and Web metadata; text/Web clustering, classification; text mining.
-	- [Lecture notes](http://web.stanford.edu/class/cs276/index.html#syllabus)
-	- [Readings](http://web.stanford.edu/class/cs276/index.html#books)
 - [Practical_RL](https://github.com/yandexdataschool/Practical_RL) **Reinforcement Learning in the Wild** *Yandex SDA* 🎥 📝 💻 📚
 	- A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (russian) and maintained to be friendly to online students (both english and russian).
 	- [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus)
 - [UvA DEEP LEARNING](http://uvadlc.github.io/) **UvA Deep Learning Course** *University of Amsterdam* 🎥 📝 💻 📚
 	- This course is taught in the MSc program in Artificial Intelligence of the University of Amsterdam. In this course we study the theory of deep learning, namely of modern, multi-layered neural networks trained on big data. The course focuses particularly on computer vision and language modelling, which are perhaps two of the most recognizable and impressive applications of the deep learning theory.
-	- [Lecture Videos & Notes](http://uvadlc.github.io/#lecture)
-	- [Practicals](http://uvadlc.github.io/#practicals)
-	- [Readings](http://uvadlc.github.io/#other-links)
-
+	
 -------
 
 ### Security
