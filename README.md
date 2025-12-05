@@ -143,8 +143,6 @@ The following icons are used throughout this list to indicate the types of mater
 	- [Videos](http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html) 
 - [15-410](https://www.cs.cmu.edu/~410/) **Operating System Design and Implementation** *Carnegie-Mellon University*  📝 💻 
 	-  This awesome course covers some fundamental topics of operating system, such as process model, virtual memory concurrency, threads, locking, interrupts, preemptibility, race conditions. It also covers introductory understanding of typical OS topics (file systems, transactions, scheduling, security concepts and technologies, memory consistency)Parallel programming models / frameworks.
-	- [Lecture Notes](https://www.cs.cmu.edu/~410/lecture.html) 
-	- [Assignments](https://www.cs.cmu.edu/~410/p1/proj1.html)
 - [15-418](http://15418.courses.cs.cmu.edu/spring2015/) **Parallel Computer Architecture and Programming** *Carnegie-Mellon University* 🎥 💻 📝 📚
 	- The goal of this course is to provide a deep understanding of the fundamental principles and engineering trade-offs involved in designing modern parallel computing systems as well as to teach parallel programming techniques necessary to effectively utilize these machines. Because writing good parallel programs requires an understanding of key machine performance characteristics, this course will cover both parallel hardware and software design.
 	- [Assignments](http://15418.courses.cs.cmu.edu/spring2015/exercises)
@@ -598,7 +596,7 @@ The following icons are used throughout this list to indicate the types of mater
 - [COMS 4771](http://www.cs.columbia.edu/~jebara/4771/index.html) **Machine Learning** *Columbia University* 💻 📝
 	- Course taught by [Tony Jebara](http://www.cs.columbia.edu/~jebara/resume.html) introduces topics in Machine Learning for both generative and discriminative estimation. Material will include least squares methods, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models, hidden Markov models, support vector machines, and kernel methods.
 	- [Lectures and Assignments](http://www.cs.columbia.edu/~jebara/4771/handouts.html)
-- [CS 109](http://cs109.github.io/2015/) **Data Science** *Harvard University* 💻 📝 📚
+- [CS 109](https://cs109.org/) **Data Science** *Harvard University* 💻 📝 📚
 	- Learning from data in order to gain useful predictions and insights. This course introduces methods for five key facets of an investigation: data wrangling, cleaning, and sampling to get a suitable data set; data management to be able to access big data quickly and reliably; exploratory data analysis to generate hypotheses and intuition; prediction based on statistical methods such as regression and classification; and communication of results through visualization, stories, and interpretable summaries.
 	- [Lectures](http://cm.dce.harvard.edu/2015/01/14328/publicationListing.shtml)
 	- [Slides](http://cs109.github.io/2014/pages/schedule.html)
@@ -978,14 +976,8 @@ and anti-analysis techniques.
 	- [Assignments](http://www.informatics.indiana.edu/rocha/i-bic/#labs)
 - [Open Sourced Elective: Database and Rails](http://www.schneems.com/ut-rails/) **Intro to Ruby on Rails** *University of Texas* 🎥 💻 📝
 	- An introductory course in Ruby on Rails open sourced by University of Texas' CS Adjunct Professor, Richard Schneeman.
-	- [Lectures](http://www.schneems.com/ut-rails/)
-	- [Assignments](http://www.schneems.com/ut-rails/)
 	- [Videos](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F)
-- [SCICOMP](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233) **An Introduction to Efficient Scientific Computation** *Universität Bremen* 🎥
-	- This is a graduate course in scientific computing created and taught by [Oliver Serang](http://colorfulengineering.org/) in 2014, which covers topics in computer science and statistics with applications from biology. The course is designed top-down, starting with a problem and then deriving a variety of solutions from scratch.
-	- Topics include memoization, recurrence closed forms, string matching (sorting, hash tables, radix tries, and suffix tries), dynamic programming (e.g. Smith-Waterman and Needleman-Wunsch), Bayesian statistics (e.g. the envelope paradox), graphical models (HMMs, Viterbi, junction tree, belief propagation), FFT, and the probabilistic convolution tree.
-	- [Lecture videos on Youtube](https://www.youtube.com/user/fillwithlight/videos) and for direct [download](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233)
-- [14-740](http://www.ini740.rocks/F20) **Fundamentals of Computer Networks** *CMU* 🎥 💻 📚 📝
+- [14-740](https://www.andrew.cmu.edu/course/14-740-s18/) **Fundamentals of Computer Networks** *CMU* 🎥 💻 📚 📝
 	- This is an introductory course on Networking for graduate students. It follows a top-down approach to teaching Computer Networks, so it starts with the Application layer which most of the students are familiar with and as the course unravels we learn more about transport, network and link layers of the protocol stack.
 	- As far as prerequisites are concerned - basic computer, programming and probability theory background is required.
 	- The course site contains links to the lecture videos, reading material and assignments.
@@ -999,8 +991,6 @@ and anti-analysis techniques.
 	- Understand the mathematical foundations of regression.
 	- Perform regression analysis in a modern computing environment.
 	- Interpret your model and communicate what it implies.
-- [Syllabus](https://andrewpbray.github.io/reg/syllabus.html)
-- [Lecture Notes](https://andrewpbray.github.io/reg/index.html)
 
 ## Contributing
 
