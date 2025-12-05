@@ -53,54 +53,33 @@ The following icons are used throughout this list to indicate the types of mater
 	- The purpose of this course is to teach the design of operating systems and operating systems concepts that appear in other advanced systems. Topics we will cover include concepts of operating systems, systems programming, networked and distributed systems, and storage systems, including multiple-program systems (processes, interprocess communication, and synchronization), memory allocation (segmentation, paging), resource allocation and scheduling, file systems, basic networking (sockets, layering, APIs, reliability), transactions, security, and privacy.
 		- Operating Systems course by the Chair of EECS, UC Berkeley [David Culler](http://www.cs.berkeley.edu/~culler/)
 		- [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c) Spring 2015 lectures
-		- [Lecture Notes](https://inst.eecs.berkeley.edu/~cs162/sp15/) Spring 2015 lectures
-- [CS 168](https://inst.eecs.berkeley.edu/~cs168/fa14/) **Introduction to the Internet: Architecture and Protocols** *UC Berkeley* 📝 💻
+- [CS 168](https://su25.cs168.io/) **Introduction to the Internet: Architecture and Protocols** *UC Berkeley* 📝 💻
 	- This course is an introduction to the Internet architecture. We will focus on the concepts and fundamental design principles that have contributed to the Internet's scalability and robustness and survey the various protocols and algorithms used within this architecture. Topics include layering, addressing, intradomain routing, interdomain routing, reliable delivery, congestion control, and the core protocols (e.g., TCP, UDP, IP, DNS, and HTTP) and network technologies (e.g., Ethernet, wireless).
-	- [Lecture Notes & Assignments](https://inst.eecs.berkeley.edu/~cs168/fa14/class.html)
-	- [Discussion Notes](https://inst.eecs.berkeley.edu/~cs168/fa14/)
 - [CS 179](http://courses.cms.caltech.edu/cs179/) **GPU Programming** *Caltech*  💻 📝
 	- This course will cover programming techniques for the GPU. The course will introduce NVIDIA's parallel computing language, CUDA. Beyond covering the CUDA programming model and syntax, the course will also discuss GPU architecture, high performance computing on GPUs, parallel algorithms, CUDA libraries, and applications of GPU computing. 
-	- [Assignments](http://courses.cms.caltech.edu/cs179/)
-	- [Lecture Notes](http://courses.cms.caltech.edu/cs179/)
-- [CS 186](https://sites.google.com/site/cs186spring2015/) **Introduction to Database Systems** *UC Berkeley* 🎥 💻 📚 📝
+- [CS 186](https://cs186berkeley.net/) **Introduction to Database Systems** *UC Berkeley* 🎥 💻 📚 📝
 	- In the project assignments in CS186, you will write a basic database management system called SimpleDB. For this project, you will focus on implementing the core modules required to access stored data on disk; in future projects, you will add support for various query processing operators, as well as transactions, locking, and concurrent queries.
 	- [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y)
-	- [Lecture Notes](https://sites.google.com/site/cs186fall2013/section-notes)
 	- [Projects](https://sites.google.com/site/cs186fall2013/homeworks)
-- [CS 241](https://courses.engr.illinois.edu/cs241/sp2016/index.html) **Systems Programming (Spring 2016)** *Univ of Illinois, Urbana-Champaign* 💻 📝
+- [CS 241](https://pkgamma.github.io/cs241-site-clone-fa19/) **Systems Programming (Fall 2019)** *Univ of Illinois, Urbana-Champaign* 💻 📝
 	- System programming refers to writing code that tasks advantage of operating system support for programmers. This course is designed to introduce you to system programming. By the end of this course, you should be proficient at writing programs that take full advantage of operating system support. To be concrete, we need to fix an operating system and we need to choose a programming language for writing programs. We chose the C language running on a Linux/UNIX operating system (which implements the POSIX standard interface between the programmer and the OS).
-	- [Assignments](https://courses.engr.illinois.edu/cs241/sp2016/mps.html)
-	- [Labs](https://courses.engr.illinois.edu/cs241/sp2016/labs.html)
+	- [Spring 2016 Version](https://courses.engr.illinois.edu/cs241/sp2016/)
 	- [Github Page](http://angrave.github.io/sys/#)
 	- [Crowd Sourced Book](https://github.com/angrave/SystemProgramming/wiki)
-- [CS 425](https://courses.engr.illinois.edu/cs425/fa2016/index.html) **Distributed Systems** *Univ of Illinois, Urbana-Champaign* 💻 📚
+- [CS 425](https://courses.engr.illinois.edu/cs425) **Distributed Systems** *Univ of Illinois, Urbana-Champaign* 💻 📚
 	- Brilliant set of lectures and reading material covering fundamental concepts in distributed systems such as Vector clocks, Consensus and Paxos. This is the 2016 version by Prof Indranil Gupta.
-	- [Lectures](https://courses.engr.illinois.edu/cs425/fa2016/lectures.html)
-	- [Assignments](https://courses.engr.illinois.edu/cs425/fa2016/assignments.html)
-- [CS 452](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/) **Real-Time Programming** *University of Waterloo*  💻 📝
+- [CS 452](https://student.cs.uwaterloo.ca/~cs452/S25/) **Real-Time Programming** *University of Waterloo*  💻 📝
 	- Write a real-time OS microkernel in C, and application code to operate a model train set in response to real-time sensor information. The communication with the train set runs at 2400 baud so it takes about 61 milliseconds to ask all of the sensors for data about the train's possible location.  This makes it particularly challenging because a train can move about 3 centimeters in that time. One of the most challenging and time-consuming courses at the University of Waterloo.
-	- [Assignments](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/assignments/index.html)
-	- [Lecture notes](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/notes/index.html)
-- [CS 2043](http://www.cs.cornell.edu/courses/CS2043/2014sp/) **Unix Tools & Scripting** *Cornell University* 💻 📝 📚
+- [CS 2043](http://www.cs.cornell.edu/courses/CS2043) **Unix Tools & Scripting** *Cornell University* 💻 📝 📚
 	- UNIX-like systems are increasingly being used on personal computers, mobile phones, web servers, and many other systems. They represent a wonderful family of programming environments useful both to computer scientists and to people in many other fields, such as computational biology and computational linguistics, in which data is naturally represented by strings. This course provides an intensive training to develop skills in Unix command line tools and scripting that enable the accomplishment and automation of large and challenging computing tasks. The syllabus takes students from shell basics and piping, to regular-expression processing tools, to shell scripting and Python.
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS2043/2014sp/)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS2043/2014sp/)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS2043/2014sp/)
-- [CS 3410](http://www.cs.cornell.edu/courses/cs3410/2016fa/) **Computer System Organization and Programming** *Cornell University* 💻 📝 📚
+- [CS 3410](http://www.cs.cornell.edu/courses/cs3410/) **Computer System Organization and Programming** *Cornell University* 💻 📝 📚
 	- CS3410 provides an introduction to computer organization, systems programming and the hardware/software interface. Topics include instruction sets, computer arithmetic, datapath design, data formats, addressing modes, memory hierarchies including caches and virtual memory, I/O devices, bus-based I/O systems, and multicore architectures. Students learn assembly language programming and design a pipelined RISC processor.
-	- [Lectures](http://www.cs.cornell.edu/courses/CS3410/2014sp/schedule.html)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS3410/2014sp/schedule.html)
-- [CS 4410](http://www.cs.cornell.edu/courses/CS4410/2014fa/) **Operating Systems** *Cornell University* 📝 📚
+- [CS 4410](http://www.cs.cornell.edu/courses/CS4410) **Operating Systems** *Cornell University* 📝 📚
 	- CS 4410 covers systems programming and introductory operating system design and implementation. We will cover the basics of operating systems, namely structure, concurrency, scheduling, synchronization, memory management, filesystems, security and networking. The course is open to any undergraduate who has mastered the material in CS3410/ECE3140.
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS4410/2014fa/slides/01-intro.pptx)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS4410/2014fa/lectures.php)
-- [CS 4414](http://rust-class.org/index.html) **Operating Systems** *University of Virginia* 🎥 💻
+- [CS 4414/5410](https://www.cs.cornell.edu/courses/cs4410/2025sp/) **Operating Systems** *University of Virginia* 🎥 💻
 	- A course (that) covers topics including: Analysis process communication and synchronization; resource management; virtual memory management algorithms; file systems; and networking and distributed systems. The primary goal of this course is to improve your ability to build scalable, robust and secure computing systems. It focuses on doing that by understanding what underlies the core abstractions of modern computer systems.
-	- [Syllabus](http://rust-class.org/pages/syllabus.html)
-	- [Lectures](http://rust-class.org/pages/classes.html)
-- [CS 5412](http://www.cs.cornell.edu/Courses/CS5412/2014sp/) **Cloud Computing** *Cornell University* 📝 📚
+- [CS 5412](http://www.cs.cornell.edu/Courses/CS5412) **Cloud Computing** *Cornell University* 📝 📚
 	- Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Prof's [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154) is also a gem and recommended as a must read in Google's tutorial on [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
-	- [Slides](http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm)
 - [CSCE 3613](http://comp.uark.edu/~wingning/csce3613/csce3613.html) **Operating Systems** *University of Arkansas (Fayetteville)* 💻 📝 📚	- An introduction to operating systems including topics in system structures, process management, storage management, files, distributed systems, and case studies.
 	- [Syllabus](http://comp.uark.edu/~wingning/csce3613/CSCE3613.pdf)
 	- [Assignments](http://comp.uark.edu/~wingning/csce3613/Homework3613.html)
