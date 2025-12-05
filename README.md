@@ -4,6 +4,8 @@
 
 There are a lot of ~~hidden~~ treasures lying within university pages scattered across the internet. This list is an attempt to bring to light those awesome CS courses which make their high-quality materials, i.e. assignments, lectures, notes, readings and examinations, available online for free.
 
+**Note:** Courses from ocw.mit.edu are not included in this list.
+
 ## Table of Contents
 
 - [Legend](#legend)
@@ -361,20 +363,6 @@ The following icons are used throughout this list to indicate the types of mater
 	- This course taught in the MIT Independent Activities Period in 2009 goes over common solution to common interview questions for software engineer interviews at highly selective companies like Apple, Google, and Facebook. They cover time complexity, hash tables, binary search trees, and other common algorithm topics you should have already covered in a different course, but goes more in depth on things you wouldn't otherwise learn in class- like bitwise logic and problem solving tricks.
 	- [Handouts](https://courses.csail.mit.edu/iap/interview/materials.php)
 	- [Topics Covered](https://courses.csail.mit.edu/iap/interview/calendar.php)
-- [6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) **Introduction to Algorithms** *MIT* 🎥 💻 📚
-	- This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.
-	- [Lecture Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
- 	- [Assignments](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/)
-	- [Readings](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/readings/)
-	- [Resources](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/download-course-materials/)
-	- [Old Exams](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/exams/)
-- [6.046J/18.410J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) **Design and Analysis of Algorithms** *MIT* 🎥 📝 💻 📚
-	- This is an intermediate algorithms course with an emphasis on teaching techniques for the design and analysis of efficient algorithms, emphasizing methods of application. Topics include divide-and-conquer, randomization, dynamic programming, greedy algorithms, incremental improvement, complexity, and cryptography. This course assumes that students know how to analyze simple algorithms and data structures from having taken [6.006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/). It introduces students to the design of computer algorithms, as well as analysis of sophisticated algorithms.
-	- [Lecture Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
- 	- [Lecture Notes](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/)
-	- [Assignments](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/assignments/)
-	- [Resources](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/download-course-materials/)
-	- [Old Exams](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/exams/)
 - [6.851](https://courses.csail.mit.edu/6.851/spring21/index.html) **Advanced Data Structures** *MIT* 🎥 💻 📝
 	- This is an advanced DS course, you must be done with the [Advanced Algorithms](https://courses.csail.mit.edu/6.854/current/) course before attempting this one.
 	- [Lectures](https://courses.csail.mit.edu/6.851/spring21/lectures/) Contains videos from sp2012 version, but there isn't much difference.
@@ -382,13 +370,6 @@ The following icons are used throughout this list to indicate the types of mater
 - [6.854/18.415J](https://courses.csail.mit.edu/6.854/current/) **Advanced Algorithms** *MIT* 🎥 💻 📝
 	- Advanced course in algorithms by Dr. David Karger covering topics such as amortization, randomization, fingerprinting, word-level parallelism, bit scaling, dynamic programming, network flow, linear programming, fixed-parameter algorithms, and approximation algorithms.
 	- **Register** on [NB](http://nb.mit.edu/subscribe?key=D3a8CYpoO2VcR1ZcfaxmR5KbyjCGXd3INNXvL3mxEakYJ7qGJw) to access the [problem set and lectures](http://nb.mit.edu/).
-- [6.854J/18.415J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/index.htm) **Advanced Algorithms** *MIT* 📝 💻 📚
-	- This course is a first-year graduate course in algorithms. Emphasis is placed on fundamental algorithms and advanced methods of algorithmic design, analysis, and implementation. Techniques to be covered include amortization, randomization, fingerprinting, word-level parallelism, bit scaling, dynamic programming, network flow, linear programming, fixed-parameter algorithms, and approximation algorithms. Domains include string algorithms, network optimization, parallel algorithms, computational geometry, online algorithms, external memory, cache, and streaming algorithms, and data structures. The need for efficient algorithms arises in nearly every area of computer science. But the type of problem to be solved, the notion of what algorithms are "efficient,'' and even the model of computation can vary widely from area to area. In this second class in algorithms, we will survey many of the techniques that apply broadly in the design of efficient algorithms, and study their application in a wide range of application domains and computational models. The goal is for the class to be broad rather than deep. Our plan is to touch upon the following areas. This is a tentative list of topics that might be covered in the class; we will select material adaptively based on the background, interests, and rate of progress of the students.
-	- [Lecture Videos - Spring 2016](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c)
-	- [Lecture Notes](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/lecture-notes/)
- 	- [Assignments](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/assignments/)
-	- [Readings](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/readings/)
-	- [Resources](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/download-course-materials/)
 - [15-451/651](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/) **Algorithms** *Carnegie Mellon University* 📝
 	- The required algorithms class that go in depth into all basic algorithms and the proofs behind them. This is one of the heavier algorithms curriculums on this page. Taught by Avrim Blum and [Manuel Blum](http://en.wikipedia.org/wiki/Manuel_Blum) who has a Turing Award due to his contributions to algorithms. Course link includes a very comprehensive set of reference notes by Avrim Blum.
 - [16s-4102](http://www.cs.virginia.edu/~shelat/16s-4102/) **Algorithms** *University of Virginia* 🎥 💻 
@@ -511,11 +492,6 @@ The following icons are used throughout this list to indicate the types of mater
 - [CS-for-all](http://www.cs.hmc.edu/csforall/) **CS for All**  *Harvey Mudd College* 💻 📝 📚
 	- This book (and course) takes a unique approach to “Intro CS.” In a nutshell, our objective is to provide an introduction to computer science as an intellectually rich and vibrant field rather than focusing exclusively on computer programming. While programming is certainly an important and pervasive element of our approach, we emphasize concepts and problem-solving over syntax and programming language features.
 	- [Lectures and Other resources](https://www.cs.hmc.edu/twiki/bin/view/ModularCS1)
-- [6.001](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm) **Structure and Interpretation of Computer Programs** *MIT* 🎥 💻 📝
-	- Teaches big-picture computing concepts using the Scheme programming language. Students will implement programs in a variety of different programming paradigms (functional, object-oriented, logical). Heavy emphasis on function composition, code-as-data, control abstraction with continuations, and syntactic abstraction through macros. An excellent course if you are looking to build a mental framework on which to hang your programming knowledge.
-	- [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures)
-	- [Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html) ([epub](https://github.com/sarabander/sicp), [pdf](https://github.com/sarabander/sicp-pdf))
-	- [IDE](http://www.neilvandyke.org/racket-sicp/)
 - [6.005](http://web.mit.edu/6.005/www/fa16/) **Software Construction, Fall 2016** *MIT* 💻 📝
 	- This course introduces fundamental principles and techniques of software development. Students learn how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; state machines; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions.
 	- [Lectures Notes/Assignments](http://web.mit.edu/6.005/www/fa16/)
@@ -729,11 +705,6 @@ and anti-analysis techniques.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS6700/2013sp/lectures/CS6700-Overview_v2.pptx)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
 	- [Readings](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
-- [6.868J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm) **The Society of Mind** *MIT* 📝 💻  📚
-	- This course is an introduction, by Prof. [Marvin Minsky](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0), to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.
-	- [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/)
-	- [Assignments](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/assignments/)
-	- [Readings](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/readings/)
 
 -------
 ### Computer Graphics
