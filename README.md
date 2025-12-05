@@ -405,35 +405,20 @@ The following icons are used throughout this list to indicate the types of mater
 - [CS 103](http://web.stanford.edu/class/cs103/) **Mathematical Foundations of Computing** *Stanford University* 💻 📝
 	-  CS103 is a first course in discrete math, computability theory, and complexity theory. In this course, we'll probe the limits of computer power, explore why some problems are harder to solve than others, and see how to reason with mathematical certainty.
 	-  Links to all lectures notes and assignments are directly on the course page
-- [CS 173](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/index.html) **Discrete Structures** *Univ of Illinois Urbana-Champaign* 💻 📝 📚
+- [CS 173](https://courses.grainger.illinois.edu/cs173) **Discrete Structures** *Univ of Illinois Urbana-Champaign* 💻 📝 📚
 	- This course is an introduction to the theoretical side of computer science. In it, you will learn how to construct proofs, read and write literate formal mathematics, get a quick introduction to key theory topics and become familiar with a range of standard mathematics concepts commonly used in computer science.
-	- [Textbook](http://web.engr.illinois.edu/~mfleck/building-blocks/) Written by the professor. Includes Instructor's Guide.
-	- [Assignments](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Homework/index.html)
-	- [Exams](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Exams/index.html)
-- [CS 276](http://www.cs.berkeley.edu/~sanjamg/classes/cs276-fall14/) **Foundations of Cryptography** *UC Berkeley* 📝
+- [CS 276](https://eecs276.com/) **Foundations of Cryptography** *UC Berkeley* 📝
 	- This course discusses the complexity-theory foundations of modern cryptography, and looks at recent results in the field such as Fully Homomorphic Encryption, Indistinguishability Obfuscation, MPC and so on.
 - [CS 278](http://www.cs.berkeley.edu/~luca/cs278-08/) **Complexity Theory** *UC Berkeley* 📝
 	- A graduate level course on complexity theory that introduces P vs NP, the power of randomness, average-case complexity, hardness of approximation, and so on.
-- [CS 374](https://courses.engr.illinois.edu/cs498374/fa2014/) **Algorithms & Models of Computation (Fall 2014)** *University of Illinois Urbana-Champaign* 🎥 💻 📝
+- [CS 374](https://courses.engr.illinois.edu/cs498374/sp2015/) **Algorithms & Models of Computation** *University of Illinois Urbana-Champaign* 🎥 💻 📝
 	- CS 498 section 374 (unofficially "CS 374") covers fundamental tools and techniques from theoretical computer science, including design and analysis of algorithms, formal languages and automata, computability, and complexity. Specific topics include regular and context-free languages, finite-state automata, recursive algorithms (including divide and conquer, backtracking, dynamic programming, and greedy algorithms), fundamental graph algorithms (including depth- and breadth-first search, topological sorting, minimum spanning trees, and shortest paths), undecidability, and NP-completeness. The course also has a strong focus on clear technical communication.
-	- [Assignments/Exams](https://courses.engr.illinois.edu/cs498374/fa2014/work.html)
-	- [Lecture Notes/Labs](https://courses.engr.illinois.edu/cs498374/fa2014/lectures.html)
-	- [Lecture videos](http://recordings.engineering.illinois.edu/ess/portal/section/115f3def-7371-4e98-b72f-6efe53771b2a)
 - [CS 3110](http://www.cs.cornell.edu/courses/CS3110/2014fa/) **Data Structures and Functional Programming** *Cornell University* 💻 📝 📚
 	- CS 3110 (formerly CS 312) is the third programming course in the Computer Science curriculum, following CS 1110/1112 and CS 2110. The goal of the course is to help students become excellent programmers and software designers who can design and implement software that is elegant, efficient, and correct, and whose code can be maintained and reused.
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS3110/2014fa/course_info.php)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS3110/2014fa/lecture_notes.php)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS3110/2014fa/index.php)
 - [CS 3220](http://www.cs.cornell.edu/~bindel/class/cs3220-s12/) **Introduction to Scientific Computing** *Cornell University* 💻 📝 📚
 	- In this one-semester survey course, we introduce numerical methods for solving linear and nonlinear equations, interpolating data, computing integrals, and solving differential equations, and we describe how to use these tools wisely (we hope!) when solving scientific problems.
-	- [Syllabus](http://www.cs.cornell.edu/~bindel/class/cs3220-s12/syllabus.html)
-	- [Lectures](http://www.cs.cornell.edu/~bindel/class/cs3220-s12/lectures.html)
-	- [Assignments](http://www.cs.cornell.edu/~bindel/class/cs3220-s12/assignments.html)
-- [CS 4300](http://www.cs.cornell.edu/courses/CS4300/2013fa/) **Information Retrieval** *Cornell University* 💻 📝 📚
+- [CS 4300](http://www.cs.cornell.edu/courses/CS4300/2013fa/) **Information Retrieval (Fall 2013)** *Cornell University* 💻 📝 📚
 	- Studies the methods used to search for and discover information in large-scale systems. The emphasis is on information retrieval applied to textual materials, but there is some discussion of other formats.The course includes techniques for searching, browsing, and filtering information and the use of classification systems and thesauruses. The techniques are illustrated with examples from web searching and digital libraries.
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures/introduction.pdf)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures.htm)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures.htm)
 - [CS 4810](https://www.dsteurer.org/toc13/) **Introduction to Theory of Computing** *Cornell University* 💻 📝 📚
 	-  This undergraduate course provides a broad introduction to the mathematical foundations of computer science. We will examine basic computational models, especially Turing machines. The goal is to understand what problems can or cannot be solved in these models.
 	- [Syllabus](https://www.dsteurer.org/toc13/syllabus/)
@@ -450,40 +435,20 @@ The following icons are used throughout this list to indicate the types of mater
 	- [Syllabus](https://complexity16.dsteurer.org/syllabus/)
 	- [Lectures](https://complexity16.dsteurer.org/lectures/)
 	- [Assignments](https://complexity16.dsteurer.org/homework/)
-- [CSCE 3193](http://www.csce.uark.edu/~sgauch/3193/S11/index.html) **Programming Paradigms** *University of Arkansas (Fayetteville)*	💻 📝
-	- Programming in different paradigms with emphasis on object oriented programming, network programming and functional programming. Survey of programming languages, event driven programming, concurrency, software validation.
-	- [Syllabus](http://www.csce.uark.edu/~sgauch/3193/S11/syllabus.html)
-	- [Notes](http://www.csce.uark.edu/~sgauch/3193/S11/notes/index.html)
-	- [Assignments](http://www.csce.uark.edu/~sgauch/3193/S11/hw/index.html)
-	- [Practice Exams](http://www.csce.uark.edu/~sgauch/3193/S11/exams/index.html)
-- [6.045](https://stellar.mit.edu/S/course/6/sp15/6.045/index.html) **Great Ideas in Theoretical Computer Science** *MIT* 📝 🎥 📚
+- [6.045](https://people.csail.mit.edu/rrw/6.045-2020/) **Great Ideas in Theoretical Computer Science** *MIT* 📝 🎥 📚
 	- This course provides a challenging introduction to some of the central ideas of theoretical computer science. Beginning in antiquity, the course will progress through finite automata, circuits and decision trees, Turing machines and computability, efficient algorithms and reducibility, the P versus NP problem, NP-completeness, the power of randomness, cryptography and one-way functions, computational learning theory, and quantum computing. It examines the classes of problems that can and cannot be solved by various kinds of machines. It tries to explain the key differences between computational models that affect their power.
-	- [Syllabus](https://stellar.mit.edu/S/course/6/sp15/6.045/courseMaterial/topics/topic1/syllabus/syllabus2015/syllabus2015.pdf)
-	- [Lecture Notes](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html)
 	- [Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html)
 
 -------
 
 ### Introduction to CS
 
-- [CS 10](https://inst.eecs.berkeley.edu/~cs10/fa14/) **The Beauty and Joy of Computing** *UC Berkeley* 🎥 💻 📝
+- [CS 10](https://cs10.org/fa25/) **The Beauty and Joy of Computing** *UC Berkeley* 🎥 💻 📝
 	- CS10 is UCB's introductory computer science class, taught using the beginners' drag-and-drop language. Students learn about history, social implications, great principles, and future of computing. They also learn the joy of programming a computer using a friendly, graphical language, and will complete a substantial team programming project related to their interests.
 	- [Snap*!*](http://snap.berkeley.edu) (based on Scratch by MIT).
 	- [Curriculum](http://bjc.berkeley.edu)
-- [CS 50](https://cs50.harvard.edu/) **Introduction to Computer Science** *Harvard University* 🎥 💻 📝
-	- CS50x is Harvard College's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan.
-	- [Lectures](http://cs50.tv/2017/fall/#about,lectures)
-	- [Problem Sets](http://cs50.tv/2017/fall/#about,psets)
-	- The course can also be taken from [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
-	- The course's OpenCourseware resides [here](http://cs50.tv)
 - [CS 61A](http://cs61a.org/) **Structure and Interpretation of Computer Programs [Python]** *UC Berkeley*  🎥 💻 📝
 	- In CS 61A, we are interested in teaching you about programming, not about how to use one particular 	programming language. We consider a series of techniques for controlling program complexity, such as functional programming, data abstraction, and object-oriented programming. Mastery of a particular programming language is a very useful side effect of studying these general techniques. However, our hope is that once you have learned the essence of programming, you will find that picking up a new programming language is but a few days' work.
-	- [Lecture Videos](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61a-spring2014-berkeley.html)
-	- [Lecture Resources by Type](http://cs61a.org/by_type.html)
-	- [Lecture Resources by Topic](http://cs61a.org/by_topic.html)
-	- [Additional Resources](http://cs61a.org/articles/resources.html)
-	- [Practice Problems](http://cs61a.org/problems/)
-	- [Extra Lectures](http://cs61a.org/extra.html)
 - [CS 61AS](http://berkeley-cs61as.github.io/) **Structure & Interpretation of Computer Programs [Racket]** *UC Berkeley* 🎥 💻 📝
 	- A self-paced version of the CS61 Course but in Racket / Scheme. 61AS is a great introductory course that will ease you into all the amazing concepts that future CS courses will cover, so remember to keep an open mind, have fun, and always respect the data abstraction
 	- [Lecture Videos](https://www.youtube.com/course?category=University%2FEngineering%2FComputer%2520Science%2FProgramming%2520Languages&list=EC6D76F0C99A731667)
@@ -493,48 +458,22 @@ The following icons are used throughout this list to indicate the types of mater
 	- Lectures videos will available for free after registration.
 - [CS 106A](https://see.stanford.edu/Course/CS106A) **Programming Methodology** *Stanford University* 🎥 💻 📝
 	- This course is the largest of the introductory programming courses and is one of the largest courses at Stanford. Topics focus on the introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Programming Methodology teaches the widely-used Java programming language along with good software engineering principles.
-	- [Lecture Videos](https://see.stanford.edu/Course/CS106A)
-	- [Assignments](https://see.stanford.edu/Course/CS106A)
-	- [All materials in a zip file](http://see.stanford.edu/materials/icspmcs106a/ProgrammingMethodologyAllMaterials.zip)
 - [CS 106B](https://see.stanford.edu/Course/CS106B) **Programming Abstractions** *Stanford University* 🎥 💻 📝
 	- This course is the natural successor to Programming Methodology and covers such advanced programming topics as recursion, algorithmic analysis, and data abstraction using the C++ programming language, which is similar to both C and Java.
-	- [Lectures](https://see.stanford.edu/Course/CS106B)
-	- [Assignments](https://see.stanford.edu/Course/CS106B)
-	- [All materials in a zip file](http://see.stanford.edu/materials/icspacs106b/ProgrammingAbstractionsAllMaterials.zip)
 - [CS 107](https://see.stanford.edu/Course/CS107) **Programming Paradigms** *Stanford University* 🎥 💻 📝
 	- Topics: Advanced memory management features of C and C++; the differences between imperative and object-oriented paradigms. The functional paradigm (using LISP) and concurrent programming (using C and C++)
-	- [Lectures](https://see.stanford.edu/Course/CS107)
-	- [Assignments](https://see.stanford.edu/Course/CS107)
 - [CS 109](http://otfried.org/courses/cs109/index.html) **Programming Practice Using Scala** *KAIST* 💻 📝
 	- This course introduces basic concepts of programming and computer science, such as dynamic and static typing, dynamic memory allocation, objects and methods, binary representation of numbers, using an editor and compiler from the command line, running programs with arguments from the command line, using libraries, and the use of basic data structures such as arrays, lists, sets, and maps. We will use Scala for this course.
-	- [Lectures] (http://otfried.org/courses/cs109/index.html)
-	- [Assignments] (http://otfried.org/courses/cs109/index.html)
-- [CS 1109](http://www.cs.cornell.edu/courses/CS1109/2013su/) **Fundamental Programming Concepts** *Cornell University* 💻 📝
+- [CS 1109](http://www.cs.cornell.edu/courses/CS1109/) **Fundamental Programming Concepts** *Cornell University* 💻 📝
 	- This course provides an introduction to programming and problem solving using a high-level programming language. It is designed to increase your knowledge level to comfortably continue to courses CS111x. Our focus will be on generic programming concepts: variables, expressions, control structures, loops, arrays, functions, pseudocode and algorithms. You will learn how to analyze problems and convert your ideas into solutions interpretable by computers. We will use MATLAB; because it provides a productive environment, and it is widely used by all engineering communities.
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS1109/2013su/syllabus.html)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS1109/2013su/calendar.html)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS1109/2013su/calendar.html)
-- [CS 1110](http://www.cs.cornell.edu/courses/CS1110/2014fa/) **Introduction to Computing Using Python** *Cornell University* 💻 📝 📚
+- [CS 1110](http://www.cs.cornell.edu/courses/CS1110/) **Introduction to Computing Using Python** *Cornell University* 💻 📝 📚
 	- Programming and problem solving using Python. Emphasizes principles of software development, style, and testing. Topics include procedures and functions, iteration, recursion, arrays and vectors, strings, an operational model of procedure and function calls, algorithms, exceptions, object-oriented programming, and GUIs (graphical user interfaces). Weekly labs provide guided practice on the computer, with staff present to help. Assignments use graphics and GUIs to help develop fluency and understanding.
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS1110/2014fa/about/grading.php)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS1110/2014fa/lectures/index.php)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS1110/2014fa/assignments/index.php)
-- [CS 1112](http://www.cs.cornell.edu/courses/CS1112/2014fa/) **Introduction to Computing Using Matlab** *Cornell University* 💻 📝 📚
+- [CS 1112](http://www.cs.cornell.edu/courses/CS1112/2019fa/) **Introduction to Computing Using Matlab** *Cornell University* 💻 📝 📚
 	- Programming and problem solving using MATLAB. Emphasizes the systematic development of algorithms and programs. Topics include iteration, functions, arrays and vectors, strings, recursion, algorithms, object-oriented programming, and MATLAB graphics. Assignments are designed to build an appreciation for complexity, dimension, fuzzy data, inexact arithmetic, randomness, simulation, and the role of approximation. NO programming experience is necessary; some knowledge of Calculus is required.
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS1112/2014fa/syllabus.html)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS1112/2014fa/syllabus.html#schedule)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS1112/2014fa/Exercises/exercises.html)
-	- [Projects](http://www.cs.cornell.edu/courses/CS1112/2014fa/Projects/projects.html)
-- [CS 1115](http://www.cs.cornell.edu/courses/CS1115/2013fa/) **Introduction to Computational Science and Engineering Using Matlab Graphical User Interfaces** *Cornell University* 💻 📝 📚
+- [CS 1115](http://www.cs.cornell.edu/courses/CS1115/2013fa/) **Introduction to Computational Science and Engineering Using Matlab Graphical User Interfaces (Fall 2013)** *Cornell University* 💻 📝 📚
 	- Programming and problem solving using MATLAB. Emphasizes the systematic development of algorithms and programs. Topics include iteration, functions, arrays and vectors, strings, recursion, algorithms, object-oriented programming, and MATLAB graphics. Assignments are designed to build an appreciation for complexity, dimension, fuzzy data, inexact arithmetic, randomness, simulation, and the role of approximation. NO programming experience is necessary; some knowledge of Calculus is required.
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS1115/2013fa/syllabus.htm)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS1115/2013fa/lecture_slides.htm)
-	- [Projects](http://www.cs.cornell.edu/courses/CS1115/2013fa/projects_and_exams.htm)
-- [CS 1130](http://www.cs.cornell.edu/courses/CS1130/2014sp/) **Transition to OO Programming** *Cornell University* 💻 📝 📚
+- [CS 1130](https://www.cs.cornell.edu/courses/cs1130/2011sp/) **Transition to OO Programming (Spring 2011)** *Cornell University* 💻 📝 📚
 	- Introduction to object-oriented concepts using Java. Assumes programming knowledge in a language like MATLAB, C, C++, or Fortran. Students who have learned Java but were not exposed heavily to OO programming are welcome.
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS1130/2014sp/about/overview.php)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS1130/2014sp/web-lectures/index.php)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS1130/2014sp/assignments/index.php)
 - [CS 1133](http://www.cs.cornell.edu/courses/CS1133/2013fa/) **Transition to Python** *Cornell University* 💻 📝 📚
 	- Introduction to the Python programming language. Covers the basic programming constructs of Python, including assignment, conditionals, iteration, functions, object-oriented design, arrays, and vectorized computation. Assumes programming knowledge in a language like Java, Matlab, C, C++, or Fortran.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS1133/2013fa/about/overview.php)
