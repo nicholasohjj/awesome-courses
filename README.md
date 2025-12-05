@@ -458,7 +458,6 @@ The following icons are used throughout this list to indicate the types of mater
 
 - [DEEPNLP](https://github.com/oxford-cs-deepnlp-2017/) **Deep Learning for Natural Language Processing** *University of Oxford* 💻 📝
 	- This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. We introduce the mathematical definitions of the relevant machine learning models and derive their associated optimisation algorithms. The course covers a range of applications of neural networks in NLP including analysing latent dimensions in text, transcribing speech to text, translating between languages, and answering questions. This course is organised by Phil Blunsom and delivered in partnership with the **DeepMind Natural Language Research Group**.
-	- [Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)
 	- Assignments are available on the organisation page titled as "practicals"
 - [CS20si](http://web.stanford.edu/class/cs20si/index.html) **Tensorflow for Deep Learning Research** *Stanford University* 💻 📝
 	- This course will cover the fundamentals and contemporary usage of the Tensorflow library for deep learning research. We aim to help students understand the graphical computational model of Tensorflow, explore the functions it has to offer, and learn how to build and structure models best suited for a deep learning project. Through the course, students will use Tensorflow to build models of different complexity, from simple linear/logistic regression to convolutional neural network and recurrent neural networks with LSTM to solve tasks such as word embeddings, translation, optical character recognition. Students will also learn best practices to structure a model and manage research experiments.
@@ -475,86 +474,41 @@ The following icons are used throughout this list to indicate the types of mater
 	- [2013 Lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) *(slightly better)*
 - [CS 156](https://work.caltech.edu/telecourse.html) **Learning from Data** *Caltech* 🎥 💻 📝 📚
 	- This is an introductory course in machine learning (ML) that covers the basic theory, algorithms, and applications. ML is a key technology in Big Data, and in many financial, medical, commercial, and scientific applications. It enables computational systems to adaptively improve their performance with experience accumulated from the observed data. ML has become one of the hottest fields of study today, taken up by undergraduate and graduate students from 15 different majors at Caltech. This course balances theory and practice, and covers the mathematical as well as the heuristic aspects.  
-	- [Lectures](https://work.caltech.edu/lectures.html)
-	- [Homework](https://work.caltech.edu/homeworks.html)
-	- [Textbook](https://work.caltech.edu/textbook.html)
 - [CS 189](http://www.eecs189.org/) **Introduction To Machine Learning** *UC Berkeley* 💻 📝
 	- Introductory ML course covering a wide range of topics: ranging from least squares to convolutional neural networks
-	- [Notes](http://www.eecs189.org/)
-	- [Homework](http://www.eecs189.org/)
 - [CS 224d](http://cs224d.stanford.edu/) **Deep Learning for Natural Language Processing** *Stanford University* 🎥 💻 📝
 	- Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. There are a large variety of underlying tasks and machine learning models powering NLP applications. Recently, deep learning approaches have obtained very high performance across many different NLP tasks. These models can often be trained with a single end-to-end model and do not require traditional, task-specific feature engineering. In this spring quarter course students will learn to implement, train, debug, visualize and invent their own neural network models. The course provides a deep excursion into cutting-edge research in deep learning applied to NLP.
-	- [Syllabus](http://cs224d.stanford.edu/syllabus.html)
-	- [Lectures and Assignments](http://cs224d.stanford.edu/syllabus.html)
-- [CS 229r](http://people.seas.harvard.edu/~minilek/cs229r/fall15/index.html) **Algorithms for Big Data** *Harvard University* 🎥 💻 📝
+- [CS 229r](https://sites.google.com/g.harvard.edu/fall2022itforcs) **Algorithms for Big Data** *Harvard University* 🎥 💻 📝
 	- Big data is data so large that it does not fit in the main memory of a single machine, and the need to process big data by efficient algorithms arises in Internet search, network traffic monitoring, machine learning, scientific computing, signal processing, and several other areas. This course will cover mathematically rigorous models for developing such algorithms, as well as some provable limitations of algorithms operating in those models.
-	- [Lectures](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
-	- [Assignments](http://people.seas.harvard.edu/~minilek/cs229r/fall15/hmwk.html)
+	- ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
 - [CS 231n](http://cs231n.stanford.edu/) **Convolutional Neural Networks for Visual Recognition** *Stanford University* 💻 📝 🎥
 	- Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision.
-	- [Lecture Notes](http://cs231n.stanford.edu/syllabus.html)
 	- [Lecture Videos](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 	- [Github Page](http://cs231n.github.io/)
-- [CS 287](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) **Advanced Robotics** *UC Berkeley* 💻 📝
+- [CS 287](http://www.cs.berkeley.edu/~pabbeel/cs287-fa19/) **Advanced Robotics** *UC Berkeley* 💻 📝
 	- The course introduces the math and algorithms underneath state-of-the-art robotic systems. The majority of these techniques are heavily based on probabilistic reasoning and optimization---two areas with wide applicability in modern Artificial Intelligence. An intended side-effect of the course is to generally strengthen your expertise in these two areas.
-	- [Lectures Notes](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/#syllabus)
-	- [Assignments](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/#assignments)
-- [CS 395T](http://www.nr.com/CS395T/) **Statistical and Discrete Methods for Scientific Computing** *University of Texas* 🎥 📝 💻
+- [CS 395T](https://www.cs.utexas.edu/~pingali/CS395TFall25/) **Statistical and Discrete Methods for Scientific Computing** *University of Texas* 🎥 📝 💻
 	- Practical course in applying modern statistical techniques to real data, particularly bioinformatic data and large data sets. The emphasis is on efficient computation and concise coding, mostly in MATLAB and C++.
 Topics covered include probability theory and Bayesian inference; univariate distributions; Central Limit Theorem; generation of random deviates; tail (p-value) tests; multiple hypothesis correction; empirical distributions; model fitting; error estimation; contingency tables; multivariate normal distributions; phylogenetic clustering; Gaussian mixture models; EM methods; maximum likelihood estimation; Markov Chain Monte Carlo; principal component analysis; dynamic programming; hidden Markov models; performance measures for classifiers; support vector machines; Wiener filtering; wavelets; multidimensional interpolation; information theory.
-	- [Lectures and Assignments](http://wpressutexas.net/forum/)
-- [CS 4780](http://www.cs.cornell.edu/courses/CS4780/2014fa/) **Machine Learning** *Cornell University* 📝 📚
+- [CS 4780](http://www.cs.cornell.edu/courses/CS4780/) **Machine Learning** *Cornell University* 📝 📚
 	- This course will introduce you to technologies for building data-centric information systems on the World Wide Web, show the practical applications of such systems, and discuss their design and their social and policy context by examining cross-cutting issues such as citizen science, data journalism and open government. Course work involves lectures and readings as well as weekly homework assignments, and a semester-long project in which the students demonstrate their expertise in building data-centric Web information systems.
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS4780/2014fa/)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS4780/2014fa/)
-- [CS 4786](http://www.cs.cornell.edu/courses/CS4786/2015sp/index.htm) **Machine Learning for Data Science** *Cornell University* 💻 📝 📚
+- [CS 4786](http://www.cs.cornell.edu/courses/CS4786) **Machine Learning for Data Science** *Cornell University* 💻 📝 📚
 	- An introductory course in machine learning, with a focus on data modeling and related methods and learning algorithms for data sciences. Tentative topic list:
 		- Dimensionality reduction, such as principal component analysis (PCA) and the singular value decomposition (SVD), canonical correlation analysis (CCA), independent component analysis (ICA), compressed sensing, random projection, the information bottleneck. (We expect to cover some, but probably not all, of these topics).
 		- Clustering, such as k-means, Gaussian mixture models, the expectation-maximization (EM) algorithm, link-based clustering. (We do not expect to cover hierarchical or spectral clustering.).
 		- Probabilistic-modeling topics such as graphical models, latent-variable models, inference (e.g., belief propagation), parameter learning.
 		- Regression will be covered if time permits.
-	- [Assignments](http://www.cs.cornell.edu/courses/CS4786/2015sp/assignments.htm)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS4786/2015sp/lectures.htm)
-- [CVX 101](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/info) **Convex Optimization** *Stanford University* 💻 📝 📚
- 	- The course concentrates on recognizing and solving convex optimization problems that arise in applications.  Topics addressed include the following.  Convex sets, functions, and optimization problems.  Basics of convex analysis.  Least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems.  Optimality conditions, duality theory, theorems of alternative, and applications.  Interior-point methods.  Applications to signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance.
-  	- [Textbook](http://web.stanford.edu/~boyd/cvxbook/)
-  	- [Lectures and Assignments](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f80793/)
-- [DS-GA 1008](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule) **Deep Learning** *New York University* 🎥 📝 💻
-	- This increasingly popular course is taught through the Data Science Center at NYU. Originally introduced by [Yann Lecun](http://yann.lecun.com/), it is now led by [Zaid Harchaoui](http://www.harchaoui.eu/), although Prof. Lecun is rumored to still stop by from time to time. It covers the theory, technique, and tricks that are used to achieve very high accuracy for machine learning tasks in computer vision and natural language processing. The assignments are in Lua and hosted on Kaggle.
-	- [Course Page](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
-	- [Recorded Lectures](http://techtalks.tv/deep-learning-nyu-spring-2015/)
 - [EECS E6893 & EECS E6895](http://www.ee.columbia.edu/~cylin/course/bigdata/) **Big Data Analytics & Advanced Big Data Analytics** *Columbia University* 💻 📚 📝
 	- Students will gain knowledge on analyzing Big Data. It serves as an introductory course for graduate students who are expecting to face Big Data storage, processing, analysis, visualization, and application issues on both workplaces and research environments.
 	- Taught by [Dr. Ching-Yung Lin](http://researcher.watson.ibm.com/researcher/view.php?person=us-chingyung)
-	- [Course Site](http://www.ee.columbia.edu/~cylin/course/bigdata/)
-	- Assignments - Assignments are present in the Course Slides
-- [EECS E6894](http://llcao.net/cu-deeplearning15/index.html) **Deep Learning for Computer Vision and Natural Language Processing** *Columbia University* 📝 💻  📚
+- [EECS E6894](https://doc.sis.columbia.edu/subj/EECS/E6894-20253-001/) **Deep Learning for Computer Vision and Natural Language Processing** *Columbia University* 📝 💻  📚
   - This graduate level research class focuses on deep learning techniques for vision and natural language processing problems. It gives an overview of the various deep learning models and techniques, and surveys recent advances in the related fields. This course uses Theano as the main programming tool. GPU programming experiences are preferred although not required. Frequent paper presentations and a heavy programming workload are expected.
-  - [Readings](http://llcao.net/cu-deeplearning15/reading.html)
-  - [Assignments](http://llcao.net/cu-deeplearning15/programming_problem.html)
-  - [Lecture Notes](http://llcao.net/cu-deeplearning15/index.html) 
-- [EE103](http://stanford.edu/class/ee103/) **Introduction to Matrix Methods** *Stanford University* 💻 📝 📚
+- [EE103](http://stanford.edu/class/engr108/) **Introduction to Matrix Methods** *Stanford University* 💻 📝 📚
 	- The course covers the basics of matrices and vectors, solving linear equations, least-squares methods, and many applications. It'll cover the mathematics, but the focus will be on using matrix methods in applications such as tomography, image processing, data fitting, time series prediction, finance, and many others. EE103 is based on a book that [Stephen Boyd](http://stanford.edu/~boyd/) and [Lieven Vandenberghe](http://www.seas.ucla.edu/~vandenbe/) are currently writing. Students will use a new language called [Julia](http://julialang.org/) to do computations with matrices and vectors.
-	- [Lectures](http://stanford.edu/class/ee103/lectures.html)
-	- [Book](http://stanford.edu/class/ee103/mma.html)
-	- [Assignments](http://stanford.edu/class/ee103/homework.html)
-	- [Code](http://stanford.edu/class/ee103/julia_files)
-- [Fast.ai Introduction to Machine Learning for Coders](http://course.fast.ai/ml.html) *Fast.ai / University of San Francisco* 🎥 📝 💻 📚
-	- There are around 24 hours of lessons, and you should plan to spend around 8 hours a week for 12 weeks to complete the material. The course is based on lessons recorded at the University of San Francisco for the Masters of Science in Data Science program. We assume that you have at least one year of coding experience, and either remember what you learned in high school math, or are prepared to do some independent study to refresh your knowledge. 
-	- [Lecture Videos](http://course.fast.ai/lessonsml1/lessonsml1.html)
-	- [Lecture Notes](https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-1-84a1dc2b5236)
-	- [Jupyter Notebooks](https://github.com/fastai/fastai/tree/master/courses/ml1)
-- [Info 290](http://www.ischool.berkeley.edu/courses/i290-abdt) **Analyzing Big Data with Twitter** *UC Berkeley school of information* 🎥
-	- In this course, UC Berkeley professors and Twitter engineers provide lectures on the most cutting-edge algorithms and software tools for data analytics as applied to Twitter's data. Topics include applied natural language processing algorithms such as sentiment analysis, large scale anomaly detection, real-time search, information diffusion and outbreak detection, trend detection in social streams, recommendation algorithms, and advanced frameworks for distributed computing.
-	-  [Lecture Videos](http://www.ischool.berkeley.edu/newsandevents/audiovideo/webcast/21963)
-	-  [Previous Years coursepage](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
 - [Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) *University of Oxford* 🎥 📝 💻
 	- The course focusses on neural networks and uses the [Torch](https://github.com/torch/torch7/wiki/Cheatsheet) deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
 	- [Lectures and Assignments](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 	- [Source code](https://github.com/oxford-cs-ml-2015/)
-- [StatLearning](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) **Intro to Statistical Learning** *Stanford University* 💻 📝 📚 🎥
-	- This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
-	- The lectures cover all the material in [An Introduction to Statistical Learning, with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) which is a more approachable version of the [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) (or ESL) book.
 - [10-601](http://www.cs.cmu.edu/~ninamf/courses/601sp15/) **Machine Learning** *Carnegie Mellon University* 💻 📝 📚 🎥
 	- This course covers the theory and practical algorithms for machine learning from a variety of perspectives. It covers topics such as Bayesian networks, decision tree learning, Support Vector Machines, statistical learning methods, unsupervised learning and reinforcement learning. The course covers theoretical concepts such as inductive bias, the PAC learning framework, Bayesian learning methods, margin-based learning, and Occam's Razor. Short programming assignments include hands-on experiments with various learning algorithms. This course is designed to give a graduate-level student a thorough grounding in the methodologies, technologies, mathematics and algorithms currently needed by people who do research in machine learning.
 	- Taught by one of the leading experts on Machine Learning - **Tom Mitchell**
