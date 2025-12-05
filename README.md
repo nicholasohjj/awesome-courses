@@ -551,7 +551,7 @@ The following icons are used throughout this list to indicate the types of mater
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS2110/2014fa/lecturenotes.html)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS2110/2014fa/lecturenotes.html)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS2110/2014fa/assignments.html)
-- [CS 4302](http://courses2.cit.cornell.edu/info4302_2012fa/) **Web Information Systems** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> 📝 📚
+- [CS 4302](http://courses2.cit.cornell.edu/info4302_2012fa/) **Web Information Systems** *Cornell University* 💻 📝 📚
 	- This course will introduce you to technologies for building data-centric information systems on the World Wide Web, show the practical applications of such systems, and discuss their design and their social and policy context by examining cross-cutting issues such as citizen science, data journalism and open government. Course work involves lectures and readings as well as weekly homework assignments, and a semester-long project in which the students demonstrate their expertise in building data-centric Web information systems.
 	- [Syllabus](http://courses2.cit.cornell.edu/info4302_2012fa/course_information.php)
 	- [Lectures](http://courses2.cit.cornell.edu/info4302_2012fa/lectures.php)
@@ -637,7 +637,7 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- This course will introduce you to technologies for building data-centric information systems on the World Wide Web, show the practical applications of such systems, and discuss their design and their social and policy context by examining cross-cutting issues such as citizen science, data journalism and open government. Course work involves lectures and readings as well as weekly homework assignments, and a semester-long project in which the students demonstrate their expertise in building data-centric Web information systems.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS4780/2014fa/)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS4780/2014fa/)
-- [CS 4786](http://www.cs.cornell.edu/courses/CS4786/2015sp/index.htm) **Machine Learning for Data Science** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> 📝 📚
+- [CS 4786](http://www.cs.cornell.edu/courses/CS4786/2015sp/index.htm) **Machine Learning for Data Science** *Cornell University* 💻 📝 📚
 	- An introductory course in machine learning, with a focus on data modeling and related methods and learning algorithms for data sciences. Tentative topic list:
 		- Dimensionality reduction, such as principal component analysis (PCA) and the singular value decomposition (SVD), canonical correlation analysis (CCA), independent component analysis (ICA), compressed sensing, random projection, the information bottleneck. (We expect to cover some, but probably not all, of these topics).
 		- Clustering, such as k-means, Gaussian mixture models, the expectation-maximization (EM) algorithm, link-based clustering. (We do not expect to cover hierarchical or spectral clustering.).
@@ -781,7 +781,7 @@ and anti-analysis techniques.
 	- [Lectures](http://ai.berkeley.edu/lecture_videos.html)
 	- [Projects](http://ai.berkeley.edu/project_overview.html)
 	- [Exams](http://ai.berkeley.edu/exams.html)
-- [CS 4700](http://www.cs.cornell.edu/courses/CS4700/2014fa/) **Foundations of Artificial Intelligence** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> 📝
+- [CS 4700](http://www.cs.cornell.edu/courses/CS4700/2014fa/) **Foundations of Artificial Intelligence** *Cornell University* 💻 📝
 	- This course will provide an introduction to computer vision, with topics including image formation, feature detection, motion estimation, image mosaics, 3D shape reconstruction, and object and face detection and recognition. Applications of these techniques include building 3D maps, creating virtual characters, organizing photo and video databases, human computer interaction, video surveillance, automatic vehicle navigation, and mobile computer vision. This is a project-based course, in which you will implement several computer vision algorithms throughout the semester.
 	- [Assignments](http://www.cs.cornell.edu/courses/CS4700/2014fa/)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS4700/2014fa/)
@@ -813,15 +813,15 @@ and anti-analysis techniques.
 - [CS 378](https://github.com/ut-cs378-vision-2014fall/course-info) **3D Reconstruction with Computer Vision** *UTexas* 💻 📝
 	- In this lab-based class, we'll dive into practical applications of 3D reconstruction, combining hardware and software to build our own 3D environments from scratch. We'll use open-source frameworks like OpenCV to do the heavy lifting, with the focus on understanding and applying state-of-the art approaches to geometric computer vision
 	- [Lectures](https://github.com/ut-cs378-vision-2014fall/course-info/tree/master/meeting-notes)
-- [CS 4620](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#) **Introduction to Computer Graphics** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+- [CS 4620](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#) **Introduction to Computer Graphics** *Cornell University* 💻 📝 📚
 	- The study of creating, manipulating, and using visual images in the computer.
 	- [Assignments](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#asgn)
 	- [Exams](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#exams)
-- [CS 4670](http://www.cs.cornell.edu/courses/CS4670/2015sp/) **Introduction to Computer Vision** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> 📝 📚
+- [CS 4670](http://www.cs.cornell.edu/courses/CS4670/2015sp/) **Introduction to Computer Vision** *Cornell University* 💻 📝 📚
 	- This course will provide an introduction to computer vision, with topics including image formation, feature detection, motion estimation, image mosaics, 3D shape reconstruction, and object and face detection and recognition. Applications of these techniques include building 3D maps, creating virtual characters, organizing photo and video databases, human computer interaction, video surveillance, automatic vehicle navigation, and mobile computer vision. This is a project-based course, in which you will implement several computer vision algorithms throughout the semester.
 	- [Assignments](http://www.cs.cornell.edu/courses/CS4670/2015sp/projects/projects.html)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS4670/2015sp/lectures/lectures.html)
-- [CS 6670](https://canvas.instructure.com/courses/904706) **Computer Vision** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> 📝
+- [CS 6670](https://canvas.instructure.com/courses/904706) **Computer Vision** *Cornell University* 💻 📝
 	- Introduction to computer vision. Topics include edge detection, image segmentation, stereopsis, motion and optical flow, image mosaics, 3D shape reconstruction, and object recognition. Students are required to implement several of the algorithms covered in the course and complete a final project.
 	- [Syllabus](https://canvas.instructure.com/courses/904706/assignments/syllabus)
 	- [Lectures](https://canvas.instructure.com/courses/904706)
@@ -831,7 +831,7 @@ and anti-analysis techniques.
 	- [Lectures](http://cs.brown.edu/courses/csci1230/lectures.html)
 	- [Labs](http://cs.brown.edu/courses/csci1230/labs.html)
 	- [Demos](http://cs.brown.edu/courses/csci1230/demos.html)
-- [CSCI-GA.2270-001](https://mrl.nyu.edu/~perlin/courses/fall2015/) **Graduate Computer Graphics** *New York University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+- [CSCI-GA.2270-001](https://mrl.nyu.edu/~perlin/courses/fall2015/) **Graduate Computer Graphics** *New York University* 💻 📝 📚
 	- Step-by-step study computer graphics, with reading and homework at each lecture (Fall2015)
 	- [Lectures](https://mrl.nyu.edu/~perlin/courses/fall2015/)
 
@@ -883,17 +883,17 @@ and anti-analysis techniques.
 	- Want to learn what makes future web technologies tick? Join us for the class where we will dive into the internals of many of the newest web technologies, analyze and dissect them. We will conduct survey lectures to provide the background and overview of the area as well as invite guest lecturers from various leading projects to present their technologies.
 - [CS 411](http://video.bilkent.edu.tr/course_videos.php?courseid=10) **Software Architecture Design** *Bilkent University* 🎥
 	- This course teaches the basic concepts, methods and techniques for designing software architectures. The topics include: rationale for software architecture design, modeling software architecture design, architectural styles/patterns, architectural requirements analysis, comparison and evaluation of architecture design methods, synthesis-based software architecture design, software product-line architectures, domain modeling, domain engineering and application engineering, software architecture implementation, evaluating software architecture designs.
-- [CS 3152](http://www.cs.cornell.edu/courses/CS3152/2014sp/) **Introduction to Computer Game Development** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> 📝 📚
+- [CS 3152](http://www.cs.cornell.edu/courses/CS3152/2014sp/) **Introduction to Computer Game Development** *Cornell University* 💻 📝 📚
 	- A project-based course in which programmers and designers collaborate to make a computer game. This course investigates the theory and practice of developing computer games from a blend of technical, aesthetic, and cultural perspectives. Technical aspects of game architecture include software engineering, artificial intelligence, game physics, computer graphics, and networking. Aesthetic and cultural include art and modeling, sound and music, game balance, and player experience.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS3152/2014sp/about/faq.php)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS3152/2014sp/lectures/index.php)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS3152/2014sp/assignments/index.php)
-- [CS 4152](http://www.cs.cornell.edu/courses/CS4152/2014sp/) **Advanced Topics in Computer Game Development** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> 📝 📚
+- [CS 4152](http://www.cs.cornell.edu/courses/CS4152/2014sp/) **Advanced Topics in Computer Game Development** *Cornell University* 💻 📝 📚
 	- Project-based follow-up course to CS/INFO 3152. Students work in a multidisciplinary team to develop a game that incorporates innovative game technology. Advanced topics include 3D game development, mobile platforms, multiplayer gaming, and nontraditional input devices. There is a special emphasis on developing games that can be submitted to festivals and competitions, or that can be commercialized.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS4152/2014sp/about/faq.php)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS4152/2014sp/sessions/index.php)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS4152/2014sp/assignments/index.php)
-- [CS 4154](http://www.cs.cornell.edu/courses/CS4154/2014fa/) **Analytics-driven Game Design** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> 📝 📚
+- [CS 4154](http://www.cs.cornell.edu/courses/CS4154/2014fa/) **Analytics-driven Game Design** *Cornell University* 💻 📝 📚
 	- A project-based course in which programmers and designers collaborate to design, implement, and release a video game online through popular game portals. In this course, students will use the internet to gather data anonymously from players. Students will analyze this data in order to improve their game over multiple iterations. Technical aspects of this course include programming, database architecture, and statistical analysis.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS4154/2014fa/about/faq.php)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS4154/2014fa/lectures/index.php)
@@ -922,12 +922,12 @@ and anti-analysis techniques.
 		- Applications from science and engineering
 	- [Lectures](http://www.cs.cornell.edu/~bindel/class/cs5220-f11/lectures.html)
 	- [Assignments](http://www.cs.cornell.edu/~bindel/class/cs5220-f11/assignments.html)
-- [CS 5540](https://sites.google.com/site/cs5540sp2013/) **Computational Techniques for Analyzing Clinical Data** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> 📝 📚
+- [CS 5540](https://sites.google.com/site/cs5540sp2013/) **Computational Techniques for Analyzing Clinical Data** *Cornell University* 💻 📝 📚
 	- CS5540 is a masters-level course that covers a wide range of clinical problems and their associated computational challenges. The practice of medicine is filled with digitally accessible information about patients, ranging from EKG readings to MRI images to electronic health records. This poses a huge opportunity for computer tools that make sense out of this data. Computation tools can be used to answer seemingly straightforward questions about a single patient's test results (“Does this patient have a normal heart rhythm?”), or to address vital questions about large populations (“Is there any clinical condition that affects the risks of Alzheimer”). In CS5540 we will look at many of the most important sources of clinical data and discuss the basic computational techniques used for their analysis, ranging in sophistication from current clinical practice to state-of-the-art research projects.
 	- [Syllabus](https://sites.google.com/site/cs5540sp2013/home/course-description)
 	- [Lectures](https://sites.google.com/site/cs5540sp2013/lectures)
 	- [Assignments](https://sites.google.com/site/cs5540sp2013/assignments)
-- [CS 5724](http://courses2.cit.cornell.edu/cs5724/) **Evolutionary Computation** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> 📝
+- [CS 5724](http://courses2.cit.cornell.edu/cs5724/) **Evolutionary Computation** *Cornell University* 💻 📝
 	- This course will cover advanced topics in evolutionary algorithms and their application to open-ended computational design. The field of evolutionary computation tries to address large-scale optimization and planning problems through stochastic population-based methods. It draws inspiration from evolutionary processes in nature and in engineering, and also serves as abstract models for these phenomena. Evolutionary processes are generally weak methods that require little information about the problem domain and hence can be applied across a wide variety of applications. They are especially useful for open-ended problem domains for which little formal knowledge exists and the number of parameters is undefined, such as for the general engineering design process. This course will provide insight to a variety of evolutionary computation paradigms, such as genetic algorithms, genetic programming, and evolutionary strategies, as well as governing dynamics of co-evolution, arms races and mediocre stable states. New methods involving symbiosis models and pattern recognition will also be presented. The material will be intertwined with discussions of representations and results for design problems in a variety of problem domains including software, electronics, and mechanics.
 	- [Syllabus](http://courses2.cit.cornell.edu/cs5724/)
 	- [Lectures](http://courses2.cit.cornell.edu/cs5724/schedule.htm)
@@ -936,19 +936,19 @@ and anti-analysis techniques.
 	- CS6452 focuses on datacenter networks and services. The emerging demand for web services and cloud computing have created need for large scale data centers. The hardware and software infrastructure for datacenters critically determines the functionality, performance, cost and failure tolerance of applications running on that datacenter. This course will examine design alternatives for both the hardware (networking) infrastructure, and the software infrastructure for datacenters.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php)
-- [CS 6630](http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm) **Realistic Image Synthesis** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> 📝 📚
+- [CS 6630](http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm) **Realistic Image Synthesis** *Cornell University* 💻 📝 📚
 	- CS6630 is an introduction to physics-based rendering at the graduate level. Starting from the fundamentals of light transport we will look at formulations of the Rendering Equation, and a series of Monte Carlo methods, from sequential sampling to multiple importance sampling to Markov Chains, for solving the equation to make pictures. We'll look at light reflection from surfaces and scattering in volumes, illumination from luminaries and environments, and diffusion models for translucent materials. We will build working implementations of many of the algorithms we study, and learn how to make sure they are actually working correctly. It's fun to watch integrals and probability distributions transform into photographs of a slightly too perfect synthetic world.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm)
 	- [Readings](http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm)
-- [CS 6640](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#) **Computational Photography** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> 📝
+- [CS 6640](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#) **Computational Photography** *Cornell University* 💻 
 	- A course on the emerging applications of computation in photography. Likely topics include digital photography, unconventional cameras and optics, light field cameras, image processing for photography, techniques for combining multiple images, advanced image editing algorithms, and projector-camera systems.cornell.edu/courses/CS6630/2012sp/about.stm)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#schedule)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#hw)
 - [CS 6650](http://www.cs.cornell.edu/courses/CS6650/2013fa/) **Computational Motion** *Cornell University* 📚
 	- Covers computational aspects of motion, broadly construed. Topics include the computer representation, modeling, analysis, and simulation of motion, and its relationship to various areas, including computational geometry, mesh generation, physical simulation, computer animation, robotics, biology, computer vision, acoustics, and spatio-temporal databases. Students implement several of the algorithms covered in the course and complete a final project.  This offering will also explore the special role of motion processing in physically based sound rendering.
-- [CS 6840](http://www.cs.cornell.edu/courses/CS6840/2014sp/) **Algorithmic Game Theory** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> 📝 📚
+- [CS 6840](http://www.cs.cornell.edu/courses/CS6840/2014sp/) **Algorithmic Game Theory** *Cornell University* 💻 📝 📚
 	- Algorithmic Game Theory combines algorithmic thinking with game-theoretic, or, more generally, economic concepts. The course will study a range of topics at this interface
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
