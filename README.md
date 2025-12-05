@@ -527,35 +527,24 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus)
 - [UvA DEEP LEARNING](http://uvadlc.github.io/) **UvA Deep Learning Course** *University of Amsterdam* 🎥 📝 💻 📚
 	- This course is taught in the MSc program in Artificial Intelligence of the University of Amsterdam. In this course we study the theory of deep learning, namely of modern, multi-layered neural networks trained on big data. The course focuses particularly on computer vision and language modelling, which are perhaps two of the most recognizable and impressive applications of the deep learning theory.
-	
+
 -------
 
 ### Security
-- [CIS 4930 / CIS 5930](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/) **Offensive Computer Security** *Florida State University* 🎥 💻 📝
-	- Course taught by [W. Owen Redwood](http://ww2.cs.fsu.edu/~redwood/) and [Xiuwen Liu](http://www.cs.fsu.edu/~liux/). It covers a wide range of computer security topics, starting from Secure C Coding and Reverse Engineering to Penetration Testing, Exploitation and Web Application Hacking, both from the defensive and the offensive point of view.
-	- [Lectures and Videos](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
-	- [Assignments](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/assignments.html)
-- [CS 155](https://crypto.stanford.edu/cs155/) **Computer and Network Security** *Stanford* 📝 📚
-	- Principles of computer systems security. Attack techniques and how to defend against them. Topics include: network attacks and defenses, operating system holes, application security (web, email, databases), viruses, social engineering attacks, privacy, and digital rights management. Course projects focus on building reliable code. Recommended: Basic Unix. Primarily intended for seniors and first-year graduate students.
-- [CS 161](http://www-inst.eecs.berkeley.edu/~cs161/sp15/) **Computer Security** *UC Berkeley* 📝
+
+- [CS 161](http://www-inst.eecs.berkeley.edu/~cs161/) **Computer Security** *UC Berkeley* 📝
 	- Introduction to computer security. Cryptography, including encryption, authentication, hash functions, cryptographic protocols, and applications. Operating system security, access control. Network security, firewalls, viruses, and worms. Software security, defensive programming, and language-based security. Case studies from real-world systems.
-- [CS 259](https://courseware.stanford.edu/pg/courses/331628/cs259-winter-2013) **Security Modeling and Analysis** *Stanford* 📝 💻 📚
+- [CS 259](https://web.stanford.edu/class/cs259/WWW08/) **Security Modeling and Analysis** *Stanford* 📝 💻 📚
 	- The course will cover a variety of contemporary network protocols and other systems with security properties. The course goal is to give students hands-on experience in using automated tools and related techniques to analyze and evaluate security mechanisms. To understand security properties and requirements, we will look at several network protocols and their properties, including secrecy, authentication, key establishment, and fairness. In parallel, the course will look at several models and tools used in security analysis and examine their advantages and limitations. In addition to fully automated finite-state model checking techniques, we will also study other approaches, such as constraint solving, process algebras, protocol logics, probabilistic model checking, game theory, and executable models based on logic programming.
-- [CS 261](http://www.icir.org/vern/cs261n-Sp14/) **Internet/Network Security** *UC Berkeley* 📝 📚
+- [CS 261](https://www.icir.org/vern/cs261n/) **Internet/Network Security** *UC Berkeley* 📝 📚
 	- This class aims to provide a thorough grounding in network security suitable for those interested in conducting research in the area, as well as students more generally interested in either security or networking. We will also look at broader issues relating to Internet security for which networking plays a role.  Topics include: denial-of-service; capabilities; network intrusion detection; worms; forensics; scanning; traffic analysis / inferring activity; architecture; protocol issues; legality and ethics; web attacks; anonymity; honeypots; botnets; spam; the underground economy; research pitfalls. The course is taught with an emphasis on seminal papers rather than bleeding-edge for a given topic.
-- [CS 5430](http://www.cs.cornell.edu/courses/CS5430/2013sp/) **System Security** *Cornell University* 💻 📝 <img src="" width="20" height="20" alt="Readings" title="Readings" />
+- [CS 5430](https://www.cs.cornell.edu/courses/cs5430/2025sp/) **System Security** *Cornell University* 💻 📝 <img src="" width="20" height="20" alt="Readings" title="Readings" />
 	- This course discusses security for computers and networked information systems. We focus on abstractions, principles, and defenses for implementing military as well as commercial-grade secure systems.
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS5430/2013sp/01.intro.html)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS5430/2013sp/02.outline.html)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS5430/2013sp/)
 - [CSCI 4968](https://github.com/RPISEC/MBE) **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* 📝 💻
 	- This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
 teach Modern Binary Exploitation at [Rensselaer Polytechnic Institute](http://rpi.edu) in
 Spring 2015. This was a university course developed and run solely by students to teach
 skills in vulnerability research, reverse engineering, and binary exploitation.
-	- [Lectures Notes](http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/)
-	- [Labs](https://github.com/RPISEC/MBE/tree/master/src)
-	- [Projects](https://github.com/RPISEC/MBE/tree/master/src)
 - [CSCI 4976](https://github.com/RPISEC/Malware) **Malware Analysis** *Rensselaer Polytechnic Institute* 📝 💻
 	- This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
 teach Malware Analysis at [Rensselaer Polytechnic Institute](http://rpi.edu) in
