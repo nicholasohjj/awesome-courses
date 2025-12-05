@@ -87,11 +87,8 @@ The following icons are used throughout this list to indicate the types of mater
 	- [Assignments](http://comp.uark.edu/~wingning/csce3613/Homework3613.html)
 	- [Lecture Notes](http://comp.uark.edu/~wingning/csce3613/CourseNote3613.html)
 	- [Readings](http://comp.uark.edu/~wingning/csce3613/Link3613.html)
-- [CSCI-UA.0202: Operating Systems (Undergrad)](http://www.cs.nyu.edu/~mwalfish/classes/15sp/index.html) **Operating Systems** *NYU* 💻 📝 📚 
+- [CSCI-UA.0202: Operating Systems (Undergrad)](https://cs.nyu.edu/~mwalfish/classes/) **Operating Systems** *NYU* 💻 📝 📚 
 	- NYU's operating system course. It's a fundamental course focusing basic ideas of operating systems, including memory management, process scheduling, file system, ect. It also includes some recommended reading materials. What's more, there are a series of hands-on lab materials, helping you easily understand OS.
-	- [Assignments](http://www.cs.nyu.edu/~mwalfish/classes/15sp/labs.html)
-	- [Lectures](http://www.cs.nyu.edu/~mwalfish/classes/15sp/syllabus.html)
-	- [Old Exams](http://www.cs.nyu.edu/~mwalfish/classes/15sp/exams.html)
 - [CSCI 360](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php) **Computer Architecture 3** *CUNY Hunter College* 💻 📝
 	-  A course that covers cache design, buses, memory hierarchies, processor-peripheral interfaces, and multiprocessors, including GPUs.
 - [CSCI 493.66](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php) **UNIX System Programming (formerly UNIX Tools)** *CUNY Hunter College* 💻 📝
@@ -101,11 +98,7 @@ The following icons are used throughout this list to indicate the types of mater
 - [Hack the Kernel](https://www.ops-class.org/) **Introduction to Operating Systems** *SUNY University at Buffalo, NY* 🎥 💻 📝
 	- This course is an introduction to operating system design and implementation. We study operating systems because they are examples of mature and elegant solutions to a difficult design problem: how to safely and efficiently share system resources and provide abstractions useful to applications.
 	- For the processor, memory, and disks, we discuss how the operating system allocates each resource and explore the design and implementation of related abstractions. We also establish techniques for testing and improving system performance and introduce the idea of hardware virtualization. Programming assignments provide hands-on experience with implementing core operating system components in a realistic development environment. Course by [Dr.Geoffrey Challen](https://blue.cse.buffalo.edu/people/gwa/)
-	- [Syllabus](https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/)
-	- [Slides](https://www.ops-class.org/slides/)
 	- [Video lectures](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3)
-	- [Assignments](https://www.ops-class.org/asst/0/)
-	- [Old Exams](https://www.ops-class.org/exams/)
 - [ECE 459](http://patricklam.ca/p4p/) **Programming for Performance** *University of Waterloo* 📝 💻
 	- Learn techniques for profiling, rearchitecting, and implementing software systems that can handle industrial-sized inputs, and to design and build critical software infrastructure. Learn performance optimization through parallelization, multithreading, async I/O, vectorization and GPU programming, and distributed computing.
 	- [Lecture slides](https://github.com/patricklam/p4p-2015/tree/master/lectures)
@@ -113,7 +106,6 @@ The following icons are used throughout this list to indicate the types of mater
 	- Introduction to designing microcontroller-based embedded computer systems using assembly and C programs. Examination of Real-time Operating Systems and their impact on performance. Computer engineering applications will be emphasized.
 	- The goal of this course is to solidify and build upon a student’s knowledge of computer organization by presenting hands-on experience with microcontrollers. Students will also examine a few sensors that are used in commercial and medical products and learn how to interface them in a microcontroller system.
 	- [Lecture Videos](https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5)
-	- [Lecture Notes](https://webpages.uncc.edu/~jmconrad/EducationalMaterials/index.html)
 - [PODC](http://dcg.ethz.ch/lectures/podc_allstars/) **Principles of Distributed Computing** *ETH-Zurich* 💻 📚 📝
 	- Explore essential algorithmic ideas and lower bound techniques, basically the "pearls" of distributed computing in an easy-to-read set of lecture notes, combined with complete exercises and solutions.
 	- [Book](http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf)
@@ -122,20 +114,14 @@ The following icons are used throughout this list to indicate the types of mater
 	- Technically not a course nevertheless an awesome collection of materials used by Prof Dan Grossman to teach parallelism and concurrency concepts to sophomores at UWash
 - [6.824](http://css.csail.mit.edu/6.824/2014/index.html) **Distributed Systems** *MIT* 💻 📝
 	- MIT's graduate-level DS course with a focus on fault tolerance, replication, and consistency, all taught via awesome lab assignments in Golang!
-	- [Assignments](http://css.csail.mit.edu/6.824/2014/labs/) - Just do `git clone git://g.csail.mit.edu/6.824-golabs-2014 6.824`
-	- [Readings](http://css.csail.mit.edu/6.824/2014/schedule.html)
-- [6.828](http://pdos.csail.mit.edu/6.828/2014/) **Operating Systems** *MIT* 💻 📝
+- [6.828](http://pdos.csail.mit.edu/6.828/) **Operating Systems** *MIT* 💻 📝
 	- MIT's operating systems course focusing on the fundamentals of OS design including booting, memory management, environments, file systems, multitasking, and more. In a series of lab assignments, you will build JOS, an OS exokernel written in C.
-	- [Assignments](http://pdos.csail.mit.edu/6.828/2014/labguide.html)
-	- [Lectures](http://pdos.csail.mit.edu/6.828/2014/schedule.html)
-	- [Videos](http://pdos.csail.mit.edu/6.828/2011/schedule.html) Note: These are student recorded cam videos of the 2011 course. The videos  explain a lot of concepts required for the labs and assignments.
 - [CSEP 552](http://courses.cs.washington.edu/courses/csep552/16wi/) **Distributed Systems** *University of Washington* 🎥 💻 📝
 	- CSEP552 is a graduate course on distributed systems. Distributed systems have become central to many aspects of how computers are used, from web applications to e-commerce to content distribution. This course will cover abstractions and implementation techniques for the construction of distributed systems, including client server computing, the web, cloud computing, peer-to-peer systems, and distributed storage systems. Topics will include remote procedure call, maintaining consistency of distributed state, fault tolerance, high availability, and other topics. As we believe the best way to learn the material is to build it, there will be a series of hands-on programming projects.
 	- [Lectures](http://courses.cs.washington.edu/courses/csep552/13sp/video/) of a previous session are available to watch.
 - [15-213](http://www.cs.cmu.edu/~213/) **Introduction to Computer Systems (ICS)** *Carnegie-Mellon University*  🎥 💻 📝
 	- The ICS course provides a programmer's view of how computer systems execute programs, store information, and communicate. It enables students to become more effective programmers, especially in dealing with issues of performance, portability and robustness. It also serves as a foundation for courses on compilers, networks, operating systems, and computer architecture, where a deeper understanding of systems-level issues is required. Topics covered include: machine-level code and its generation by optimizing compilers, performance evaluation and optimization, computer arithmetic, memory organization and management, networking technology and protocols, and supporting concurrent computation.
 	- This is the must-have course for everyone in CMU who wants to learn some computer science no matter what major are you in. Because it's CMU (The course number is as same as the zip code of CMU)!
-	- [Lecture Notes](http://www.cs.cmu.edu/~213/schedule.html)
 	- [Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22) 
 	- [Assignments](http://csapp.cs.cmu.edu/public/labs.html)
 - [15-319/619](http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html) **Cloud Computing (ICS)** *Carnegie-Mellon University*  🎥 💻 
@@ -276,8 +262,6 @@ The following icons are used throughout this list to indicate the types of mater
 	- [Assignments, Tests, and Solutions](http://courses.cs.washington.edu/courses/csep501/09au/homework/index.html)
 - [DMFP](http://cs.wheaton.edu/~tvandrun/dmfp/) **Discrete Mathematics and Functional Programming** *Wheaton College* 🎥 💻
   - A course that teaches discrete maths concepts with functional programming
-  - [Lecture Videos](http://cs.wheaton.edu/~tvandrun/dmfp/)
-  - [Assignments](http://cs.wheaton.edu/~tvandrun/dmfp/source.html)
 - [PCPP](http://www.itu.dk/people/sestoft/itu/PCPP/E2015/) **Practical Concurrent and Parallel Programming** *IT University of Copenhagen* 📝 💻 📚
   - In this MSc course you learn how to write correct and efficient concurrent and parallel software, primarily using Java, on standard shared-memory multicore hardware.
   - The course covers basic mechanisms such as threads, locks and shared memory as well as more advanced mechanisms such as parallel streams for bulk data, transactional memory, message passing, and lock-free data structures with compare-and-swap.
@@ -300,25 +284,19 @@ The following icons are used throughout this list to indicate the types of mater
 
 ### Algorithms
 
-- [CS 61B](http://datastructur.es/sp16/) **Data Structures** *UC Berkeley* 🎥 💻 📝 📚
+- [CS 61B](https://sp25.datastructur.es/) **Data Structures** *UC Berkeley* 🎥 💻 📝 📚
 	- In this course, you will study advanced programming techniques including data structures, encapsulation, abstract data types, interfaces, and algorithms for sorting and searching, and you will get a taste of “software engineering”—the design and implementation of large programs.
-	- [Full Lecture Materials](http://datastructur.es/sp16/) Lecture of Spring 2016. This website contains full matrials including video links, labs, homeworks, projects. Very good for self-learner. Also a good start for Java. And it includes some other useful resources for Java Documentation, Data Structure Resources, Git/GitHub and Java Development Resources. [Resources](http://datastructur.es/sp16/resources.html)
-	- [Labs](http://www.cs.berkeley.edu/~jrs/61b/lab/index.html) The link to labs and projects is included in the website.
 	- [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iC2Khb1B5NnbE7SHPQ1-W17) 
 - [CS 97SI](http://web.stanford.edu/class/cs97si/) **Introduction to Competitive Programming** *Stanford University*  💻 📝
 	- Fantastic repository of theory and practice problems across various topics for students who are interested to participate in ACM-ICPC.
 	- [Lectures and Assignments](https://github.com/jaehyunp/stanfordacm)
-- [CS 224](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) **Advanced Algorithms** *Harvard University* 🎥 💻 📝
+- [CS 224](https://people.seas.harvard.edu/~cs224/fall14/index.html) **Advanced Algorithms** *Harvard University* 🎥 💻 📝
 	- CS 224 is an advanced course in algorithm design, and topics we will cover include the word RAM model, data structures, amortization, online algorithms, linear programming, semidefinite programming, approximation algorithms, hashing, randomized algorithms, fast exponential time algorithms, graph algorithms, and computational geometry.
-	- [Lecture Videos](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf))
-	- [Assignments](http://people.seas.harvard.edu/~minilek/cs224/fall14/hmwk.html)
-- [CS 261](http://theory.stanford.edu/~tim/w16/w16.html) **A Second Course in Algorithms** *Stanford University* 🎥 💻 📝
+- [CS 261](https://timroughgarden.org/w16/w16.html) **A Second Course in Algorithms** *Stanford University* 🎥 💻 📝
 	- Algorithms for network optimization: max-flow, min-cost flow, matching, assignment, and min-cut problems. Introduction to linear programming. Use of LP duality for design and analysis of algorithms. Approximation algorithms for NP-complete problems such as Steiner Trees, Traveling Salesman, and scheduling problems. Randomized algorithms. Introduction to online algorithms.
-	- [Lecture Notes, Videos & Assignments](http://theory.stanford.edu/~tim/w16/w16.html) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
+	- ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
 - [CS 473/573](http://jeffe.cs.illinois.edu/teaching/algorithms/) **Fundamental Algorithms** *Univ of Illinois, Urbana-Champaign* 💻 📝
 	- Algorithms class covering recursion, randomization, amortization, graph algorithms, network flows and hardness. The lecture notes by Prof. Erikson are comprehensive enough to be a book by themselves. Highly recommended!
-	- [Lecture Notes](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/all-algorithms.pdf)
-	- [Labs and Exams](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/all-hwex.pdf)
 - [CS 2150](https://github.com/aaronbloomfield/pdr) **Program & Data Representation** *University of Virginia* 💻 📝
 	- This data structures course introduces C++, linked-lists, stacks, queues, trees, numerical representation, hash tables, priority queues, heaps, huffman coding, graphs, and x86 assembly.
 	- [Lectures](http://aaronbloomfield.github.io/pdr/slides/)
@@ -455,46 +433,23 @@ The following icons are used throughout this list to indicate the types of mater
 	- Programming and problem solving using MATLAB. Emphasizes the systematic development of algorithms and programs. Topics include iteration, functions, arrays and vectors, strings, recursion, algorithms, object-oriented programming, and MATLAB graphics. Assignments are designed to build an appreciation for complexity, dimension, fuzzy data, inexact arithmetic, randomness, simulation, and the role of approximation. NO programming experience is necessary; some knowledge of Calculus is required.
 - [CS 1130](https://www.cs.cornell.edu/courses/cs1130/2011sp/) **Transition to OO Programming (Spring 2011)** *Cornell University* 💻 📝 📚
 	- Introduction to object-oriented concepts using Java. Assumes programming knowledge in a language like MATLAB, C, C++, or Fortran. Students who have learned Java but were not exposed heavily to OO programming are welcome.
-- [CS 1133](http://www.cs.cornell.edu/courses/CS1133/2013fa/) **Transition to Python** *Cornell University* 💻 📝 📚
-	- Introduction to the Python programming language. Covers the basic programming constructs of Python, including assignment, conditionals, iteration, functions, object-oriented design, arrays, and vectorized computation. Assumes programming knowledge in a language like Java, Matlab, C, C++, or Fortran.
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS1133/2013fa/about/overview.php)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS1133/2013fa/lectures/index.php)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS1133/2013fa/assignments/index.php)
+- [CS 1133](http://www.cs.cornell.edu/courses/CS1133/2019fa/) **Short Course in Python** *Cornell University* 💻 📝 📚
+	- Introduction to the Python programming language. Covers the basic programming constructs of Python, including assignment, conditionals, iteration, functions, object-oriented design, arrays, and vectorized computation. Designed for students who need Python for research or other courses. Does not assume any previous programming experience. Students who take this course will build an understanding of will understand the basic Python constructs and be able to write simple programs.
 - [CS 1410-2](http://www.eng.utah.edu/~cs1410-20/) and [CS2420-20](http://www.eng.utah.edu/~cs2420-20/) **Computer Science I and II for Hackers** *University of Utah* 💻 📝 📚
 	- An intro course in the spirit of SICP designed by [Professor Matthew Flatt](http://www.cs.utah.edu/~mflatt/) (one of the lead designers of Racket and author of HtDP). Mostly Racket and C, and a bit of Java, with explanations on how high level functional programming concepts relate to the design of OOP programs. Do this one before SICP if SICP is a bit too much...
-	- [Lectures and Assignments 1](http://www.eng.utah.edu/~cs1410-20/schedule.html)
-	- [Lectures and Assignments 2](http://www.eng.utah.edu/~cs2420-20/schedule.html)
 	- [Textbook](http://htdp.org/2003-09-26/Book/curriculum.html)
 	- [Racket Language](http://racket-lang.org/)
-- [CS 2110](http://www.cs.cornell.edu/courses/CS2110/2014fa/index.html) **Object-Oriented Programming and Data Structures** *Cornell University* 💻 📝 📚
-	- CS 2110 is an intermediate-level programming course and an introduction to computer science. Topics include program design and development, debugging and testing, object-oriented programming, proofs of correctness, complexity analysis, recursion, commonly used data structures, graph algorithms, and abstract data types. Java is the principal programming language. The course syllabus can easily be extracted by looking at the link to [lectures](http://www.cs.cornell.edu/courses/CS2110/2014fa/lecturenotes.html).
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS2110/2014fa/lecturenotes.html)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS2110/2014fa/lecturenotes.html)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS2110/2014fa/assignments.html)
-- [CS 4302](http://courses2.cit.cornell.edu/info4302_2012fa/) **Web Information Systems** *Cornell University* 💻 📝 📚
+- [CS 2110](http://www.cs.cornell.edu/courses/CS2110) **Object-Oriented Programming and Data Structures** *Cornell University* 💻 📝 📚
+	- CS 2110 is an intermediate-level programming course and an introduction to computer science. Topics include program design and development, debugging and testing, object-oriented programming, proofs of correctness, complexity analysis, recursion, commonly used data structures, graph algorithms, and abstract data types. Java is the principal programming language.
+- [CS 4302](https://infosci.cornell.edu/courses/info4302/2012fa/) **Web Information Systems** *Cornell University* 💻 📝 📚
 	- This course will introduce you to technologies for building data-centric information systems on the World Wide Web, show the practical applications of such systems, and discuss their design and their social and policy context by examining cross-cutting issues such as citizen science, data journalism and open government. Course work involves lectures and readings as well as weekly homework assignments, and a semester-long project in which the students demonstrate their expertise in building data-centric Web information systems.
-	- [Syllabus](http://courses2.cit.cornell.edu/info4302_2012fa/course_information.php)
-	- [Lectures](http://courses2.cit.cornell.edu/info4302_2012fa/lectures.php)
-	- [Assignments](http://courses2.cit.cornell.edu/info4302_2012fa/homeworks.php)
-- [CSCE 2004](http://www.csce.uark.edu/~sgauch/2004/S14/index.html) **Programming Foundations I** *University of Arkansas (Fayetteville)* 💻 📝 📚
-	- Introductory course for students majoring in computer science or computer engineering. Software development process: problem specification, program design, implementation, testing and documentation. Programming topics: data representation, conditional and iterative statements, functions, arrays, strings, file I/O, and classes. Using C++ in a UNIX environment.
-	- [Syllabus](http://www.csce.uark.edu/~sgauch/2004/S14/syllabus.html)
-	- [Notes](http://www.csce.uark.edu/~sgauch/2004/S14/notes/index.html)
-	- [Assignments](http://www.csce.uark.edu/~sgauch/2004/S14/hw/index.html)
-	- [Practice Exams](http://www.csce.uark.edu/~sgauch/2004/S14/index.html)
 - [CSCI E-1](http://cse1.net/lectures) **Understanding Computers and the Internet** *Harvard University Extension College* 
 🎥 💻 📝
 	- This course is all about understanding: understanding what's going on inside your computer when you flip on the switch, why tech support has you constantly rebooting your computer, how everything you do on the Internet can be watched by others, and how your computer can become infected with a worm just by being turned on. Designed for students who use computers and the Internet every day but don't fully understand how it all works, this course fills in the gaps. Through lectures on hardware, software, the Internet, multimedia, security, privacy, website development, programming, and more, this course "takes the hood off" of computers and the Internet so that students understand how it all works and why. Through discussions of current events, students are exposed also to the latest technologies.
-	- [Lecture Videos](http://cse1.net/lectures)
-	- [Syllabus](http://cse1.net/syllabus)
-	- [Notes / Recaps](http://cse1.net/recaps)
-	- [Assignments](http://cse1.net/psets)
 - [CS-for-all](http://www.cs.hmc.edu/csforall/) **CS for All**  *Harvey Mudd College* 💻 📝 📚
 	- This book (and course) takes a unique approach to “Intro CS.” In a nutshell, our objective is to provide an introduction to computer science as an intellectually rich and vibrant field rather than focusing exclusively on computer programming. While programming is certainly an important and pervasive element of our approach, we emphasize concepts and problem-solving over syntax and programming language features.
-	- [Lectures and Other resources](https://www.cs.hmc.edu/twiki/bin/view/ModularCS1)
-- [6.005](http://web.mit.edu/6.005/www/fa16/) **Software Construction, Fall 2016** *MIT* 💻 📝
+- [6.005](http://web.mit.edu/6.005/www/archive) **Software Construction, Fall 2016** *MIT* 💻 📝
 	- This course introduces fundamental principles and techniques of software development. Students learn how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; state machines; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions.
-	- [Lectures Notes/Assignments](http://web.mit.edu/6.005/www/fa16/)
 
 
 -------
